@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		 // 입력하기 위한 스캐너 생성
+		Scanner sc = new Scanner(System.in);
+
+		 // 입력하는 자연수들의 배열
+		int[] arr = new int[7];
+
+		int sum = 0;
+		int min = 100;
+
+		 // 반복문과 조건문을 통해 홀수의 합과 최솟값 출력
+		for (int i = 0; i < arr.length; i++) {
+			int input = sc.nextInt();
+			if ((input % 2) == 1) {
+				sum += input; // 홀수면 sum += 되게끔 설정
+				if (min > input) {
+					min = input; // min 재할당
+				}
+			}
+		}
+
+		 // 홀수가 없으면 -1 출력 (홀수가 0이면 sum도 0)
+		 // 홀수가 없으면 최솟값은 없음
+		if (sum == 0) {
+			System.out.println(sum-1);
+
+		} else {
+			System.out.println(sum);
+			System.out.println(min);
+		}
+	}
+}
