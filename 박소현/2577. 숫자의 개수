@@ -1,0 +1,105 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int A = sc.nextInt();
+		int B = sc.nextInt();
+		int C = sc.nextInt();
+		String ABC = Integer.toString(A * B * C);
+
+		String[] str = ABC.split("");
+		int cnt = 0;
+        
+        // 0의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("0")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 1의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("1")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 2의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("2")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 3의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("3")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 4의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("4")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 5의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("5")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 6의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("6")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 7의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("7")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 8의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("8")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+		cnt = 0;
+        
+        // 9의 개수
+		for (int i = 0; i < str.length; i++) {
+			if (str[i].contains("9")) {
+				cnt++;
+			}
+		}
+		System.out.println(cnt);
+
+	}
+}
