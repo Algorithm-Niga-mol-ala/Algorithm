@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
+
 		// 윷놀이 점수를 입력값의 합으로 계산
 		int sum = 0;
 		
