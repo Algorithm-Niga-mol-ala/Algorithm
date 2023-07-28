@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+
+		for (int r = 0; r < n; r++) { // r=줄 수
+			for (int i = n - r; i > 0; i--) { // i=별의 개수
+				System.out.print("*");
+			}
+			System.out.println(""); // 다음 줄로 넘기기
+		}
+	}
+}
