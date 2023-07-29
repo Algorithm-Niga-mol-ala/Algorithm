@@ -1,0 +1,46 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+		// N을 입력받음
+		
+		// 9*9크기의 배열
+		// 5행까지 i가 늘어나면 맨 앞과 맨 뒤에 별이 없어짐
+		// 6행부터 i가 늘어나면 맨 앞과 맨 뒤에 별이 생김
+		// arr[0][j]=*
+		// arr[1][0,8] i-1 = " "
+		// arr[2][0,1,7,8] = " "
+		// 절반에서 반전 (2*N-1)/2
+		// arr[6][0,1,7,8] = " "
+		// arr[7][0,8] = " "
+		for (int i = 0; i < 2 * N - 1; i++) {
+			for (int j = 0; j < 2 * N - 1; j++) {
+				if (i <= (2 * N - 1) / 2) {//행이 절반 이하일 경우
+					if ( j < i ) {//양 끝부터 빈칸으로
+						System.out.print(" ");
+						//(2 * N - 1)개의 별에서 i줄 갔을때 i개씩 양끝에서 지워지니까 
+					}else if(j > (2 * N - 1)-1 - i) {
+						System.out.print("");
+					}
+					else {
+						System.out.print("*");
+					}
+				} else {//행이 절반을 넘었을 경우
+					if (j < (2 * N - 1)-1 - i ) {//양 끝부터 빈칸으로
+						System.out.print(" ");
+					}else if(j > i) {
+						System.out.print("");
+					}
+					else {
+						System.out.print("*");
+					}
+				}
+				
+			}
+			System.out.println();//한줄끝나면 엔터
+		}
+
+	}
+}
