@@ -1,0 +1,58 @@
+package org.zerock.controller;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.Stack;
+
+class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		
+		Stack<Character> left = new Stack<>();
+		Stack<Character> right = new Stack<>();
+		
+		String str = br.readLine();
+		
+	
+		
+		for(int i=0; i< str.length(); i++) {
+			left.push(str.charAt(i));
+		}//left에 입력받은 문자들을 집어넣음 
+	
+		int M = Integer.parseInt(br.readLine());
+		
+		for(int i =0; i<M ; i++) {
+			String cmd = br.readLine();
+			if(cmd.charAt(0)=='L') {
+				if(!left.isEmpty()) {
+					right.push(left.pop());
+				}
+			}else if(cmd.charAt(0)=='D') {
+				if(!right.isEmpty()) {
+					left.push(right.pop());
+				}
+			}else if(cmd.charAt(0)=='B') {
+					if(!left.isEmpty()) {
+						left.pop();
+					}
+			}else {
+				left.push(cmd.charAt(2));
+			}
+		}
+		while(!left.isEmpty()) {
+			right.push(left.pop());
+		}
+		
+		
+		while(!right.isEmpty()) {
+			bw.write(right.pop());
+		}
+		bw.flush();
+		bw.close();
+		br.close();
+	}
+}
