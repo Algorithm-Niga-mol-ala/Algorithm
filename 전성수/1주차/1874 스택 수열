@@ -1,0 +1,57 @@
+package org.zerock.controller;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Stack;
+
+class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		
+		Stack<Integer> stack = new Stack<>();
+		
+		int N = Integer.parseInt(br.readLine());
+		
+		int top = 0;
+		boolean flag = true;
+		for(int i =0; i<N; i++) {
+			int num = Integer.parseInt(br.readLine());
+			
+			if(stack.isEmpty()) {//스택이 비어있으면 첫 숫자까지 push후 pop 해주기
+				for(int j = top+1; j<=num;j++) {
+					stack.push(j);
+					sb.append("+").append("\n");//push를 의미
+				}//넣어준후
+				stack.pop();
+				sb.append("-").append("\n");
+				top=num;
+			}else {//스택안에 숫자가 있을 때
+				if(stack.peek()==num) {//num 과 stack 맨 위의 숫자가 같을때
+					stack.pop();
+					sb.append("-").append("\n");
+				}else if(stack.peek()<num) {//stack 맨 위의 숫자가 num보다 작을 때
+					for(int j = top+1; j<=num;j++) {//stack 맨 위 숫자 다음 숫자부터 num 까지 넣어줌
+						stack.push(j);
+						sb.append("+").append("\n");//push를 의미
+					}
+					stack.pop();
+					sb.append("-").append("\n");
+					top=num;
+				}else if(stack.peek()>num){//stack 맨 위의 숫자가 num보다 크면 no
+					flag = false;
+					break;
+				}
+			}
+			
+		}
+		if(flag==false) {
+			System.out.println("NO");
+		}else {
+			System.out.println(sb);
+		}
+		
+		
+	}
+}
