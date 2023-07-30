@@ -1,0 +1,50 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+//백준 제출할 때 클래스명은 Main
+public class No_3273_두수의합 {
+
+	public static void main(String[] args) {
+		// n개 서로 다른 양의 정수로 이루어진 수열이 있다.
+		// ai+aj=x (1<=i<j<=n)을 만족하는 쌍을 구하는 프로그램
+		// 첫째줄 수열의 크기 n, 두번째줄 수열에 들어가는 수, 셋째줄 x
+		
+		// for문으로 시도하다가 시간초과로 계속 막혀서 검색해봄
+		// 투 포인터라는 방식을 이용하여 해결 가능
+		
+		Scanner sc = new Scanner(System.in); // 키보드로부터 입력을 받기 위한 스캐너 객체 생성 
+		
+		int n = sc.nextInt();
+		
+		int arr[] = new int[n];
+		
+		for (int i=0; i<arr.length; i++) {
+			arr[i] = sc.nextInt();
+		}
+		
+		int x = sc.nextInt();
+		
+		Arrays.sort(arr); // 오름차순 정렬 
+		
+		int start = 0; // 왼쪽(시작점) 포인터 
+		int end = n-1; // 오른쪾(마지막점) 포인터 
+		int cnt = 0; // 카운터 
+		int sum = 0; // 두 수를 더한 값 
+		
+		while (start < end) { // 서로 탐색하다 만날 때까지 반복문 
+			sum = arr[start]+arr[end]; // 포인터들의 값을 더한다. 
+			
+			if (sum == x) { // 두 수의 합이 x일 때, 
+				cnt++; // 카운터 증가 
+			}
+			
+			if (sum < x) { // 두 수의 합이 x보다 작을 때, 
+				start++; // 왼쪽 포인터를 오른쪽으로 옮겨 값을 키운다. 
+			} else {
+				end--; // 그 외의 경우는 오른쪽 포인터를 왼쪽으로 옮긴다. 
+			}
+		}
+		
+		System.out.println(cnt); // 반복문이 끝났을 때 들어간 카운터의 수 
+	}
+}
