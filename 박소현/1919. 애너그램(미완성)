@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// 단어 두 개 입력받기
+		Scanner sc = new Scanner(System.in);
+		String w1 = sc.next();
+		String w2 = sc.next();
+		
+		// 알파벳 담을 배열 만들기
+		int[] arr1 = new int[26];
+		int[] arr2 = new int[26];
+		
+		
+		for(int i = 0; i < arr1.length; i++) {
+			arr1[w1.charAt(i)-'0'] += 1;; // w1의 i번째 문자를 int화 -> 카운트++
+		}
+		
+		for(int i = 0; i < arr2.length; i++) {
+			arr2[w2.charAt(i)-'0'] += 1;; // w2의 i번째 문자를 int화 -> 카운트++
+		}
+		
+		int cnt = 0;
+		for(int i = 0; i<arr1.length; i++) {
+			for(int j = 0; j<arr2.length; j++) {
+				if (arr1[i] != arr2[j])
+				cnt += 2;
+			}
+		} System.out.println(cnt);
+
+	}
+
+}
