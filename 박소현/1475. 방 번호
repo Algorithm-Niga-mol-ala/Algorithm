@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.next();
+
+		// 0~9까지 카운트 담을 배열 생성
+		int[] arr = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+		// 배열 인덱스 = 입력값이면 cnt++되도록 반복문 설정
+		for (int i = 0; i < arr.length; i++) {
+			for (int j = 0; j < input.length(); j++) {
+				if (i == (input.charAt(j) - '0')) {
+					arr[i] += 1;
+				}
+			}
+		}
+		arr[6] += arr[9]; // 6과 9는 동일하므로 숫자 합쳐주기
+		
+		// 세트 세주기
+		if (arr[6] % 2 == 0)
+			arr[6] = arr[6] / 2;
+		else
+			arr[6] = arr[6] / 2 + 1;
+		
+		// 가장 큰 arr[i] = 세트 수 출력
+		int max = 0;
+		for (int i = 0; i < arr.length -1; i++) {
+			if (arr[i] > max) max = arr[i];
+		}
+		System.out.println(max);
+
+	}
+}
