@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+//!! 백준 제출할 때는 Main으로 바꾸기
+public class No_2446_별찍기9 {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in); // 키보드 입력 위한 스캐너
+		
+		int N = sc.nextInt(); // 입력값 N 받기
+		
+		int i = 0;
+		int j = 0;
+		int k = 0;
+		
+		// 별 상단부 로직
+		for (i=0; i<N-1; i++) { // 별이 출력될 줄 수 (N-1을 해줌으로 하단부 로직과 한 개짜리 별이 겹치지 않게함)
+			for (k=i; k>0; k--) { // k에 i를 넣어줘서 처음에는 0이 나와 실행x, 2번째부터 1개씩 늘어나게 설정
+				System.out.print(" "); // 결과적으로 공백이 1칸씩 늘어난다.
+			}
+			
+			System.out.print("*"); // 별의 갯수가 2개씩 줄어드는 등차수열이므로 계산하기 힘든 홀수 별의 갯수를 짝수로 바꾸기 위해 하나는 그냥 출력
+			for (j=1; j<N-i; j++) { // j가 N-i번만큼 반복하게끔
+				System.out.print("**"); // 2개씩 줄어드는 등차수열 완성
+			}
+			System.out.println(); // 개행
+		}
+		
+		// 별 하단부 로직
+		for (i=N; i>0; i--) { // N줄만큼 별을 출력한다.
+			for (j=1; j<i; j++) { // 반복하여 공백을 출력
+				System.out.print(" ");
+			} System.out.print("*"); // 하나는 일반 출력
+			
+			for (k=0; k<N-i; k++) { // 등차수열식을 선언하여
+				System.out.print("**"); // 2개씩 출력
+			}
+			System.out.println(); // 개행
+		}
+		
+	}
+}
