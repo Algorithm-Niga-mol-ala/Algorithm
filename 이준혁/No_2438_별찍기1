@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+// !! 백준 제출할 때는 Main으로 바꾸기 ( 별찍기 1과 별찍기 3을 합치면 시험문제와 동일했었음... ㅠ )
+public class No_2438_별찍기1 {
+
+	public static void main(String[] args) {
+		// 첫쨰 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 문제
+		
+		Scanner sc = new Scanner(System.in); // 키보드 입력을 받기위한 스캐너
+		
+		int N = sc.nextInt(); // 정수 N을 입력받는다.
+		
+		for (int i=0; i<N+1; i++) { // N번만큼 반복하여 별을 띄워준다.
+			for (int j=0; j<i; j++) { // i번째 줄일 때 j개만큼의 별을 띄워줌
+				System.out.print("*");
+			} 
+			if (i != 0 && i != N) System.out.println(); // 첫쨰줄 마지막 줄 개행 없애기
+		}
+	}
+}
