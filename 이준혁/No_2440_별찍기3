@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+//!! 백준 제출할 때는 Main으로 바꾸기
+public class No_2440_별찍기3 {
+
+	public static void main(String[] args) {
+		// 첫쨰 줄에는 별 N개, 둘째 줄에는 별 N-1개, N번째 줄에는 별 1개를 찍는 문제
+		
+		Scanner sc = new Scanner(System.in); // 키보드 입력을 받기위한 스캐너
+		
+		int N = sc.nextInt(); // 정수 N을 입력받는다.
+		
+		for (int i=N; i>0; i--) { // i에 N을 넣고, 줄여나가는 방식으로 반복문 횟수 조절
+			for (int j=0; j<i; j++) { // i의 초기값이 높으므로 i의 수만큼 j반복으로 적어질 별의 수 조절
+				System.out.print("*");
+			} 
+			if (i != 1) System.out.println(); // 마지막 개행만 없앤다 ( 첫 개행은 별찍기 1과 다르게 역수로 시작하여 없다 )
+		}
+	}
+}
