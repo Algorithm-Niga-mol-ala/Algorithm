@@ -1,0 +1,53 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.LinkedList;
+import java.util.Queue;
+
+class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+		String[] str = br.readLine().split(" ");
+		// br.readLine()으로 받은 String을 바로 split(" ")으로 공백 기준으로 나눠서 배열에 저장
+
+		int N = Integer.parseInt(str[0]);
+
+		int K = Integer.parseInt(str[1]);
+
+		// F I F O 의 컬랙션 Queue 를 구현해서 1, 2 번째 요소는 빼낸 뒤 다시 넣어주고
+		//3번째 요소는 빼내서 버퍼에 올림
+		Queue<Integer>q = new LinkedList<>();
+		
+		//Queue는 인터페이스 라서 new Queue 이런 식으로 구현 불가능
+		//인터페이스 queue 가 구현되어 있는 LinkedList를 이용해서 구현
+		
+		for(int i =1; i<=N ; i++) {
+			//1~N까지 Queue에 넣어줌
+			q.add(i);
+		}
+		
+		//q에는 지금 1 2 3 4 5 6 7 의 순서
+		bw.write("<");
+		
+		while(q.size()!=1) {//q가 다 비어버리면 반복 종료
+			for(int i=0; i<K-1; i++) { //K가 3이니까 i가 0 1 인 경우 2번 반복
+				
+    q.add(q.poll());  // 맨 앞에서 빼서 맨 뒤로 넣음
+	}
+   //후 세번째 에는 빼서 버퍼에 올림
+   
+			bw.write(q.poll()+", ");
+   
+		}//문제에서 <3, 6, 2, 7, 5, 1, 4> 이런 식으로 출력하라고 했으니까
+		
+		
+		bw.write(q.poll()+">");
+		bw.flush(); // 버퍼 털기
+		bw.close();
+		br.close();
+	}
+}
