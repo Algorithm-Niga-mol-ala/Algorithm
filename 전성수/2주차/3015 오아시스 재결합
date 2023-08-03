@@ -1,0 +1,63 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.Stack;
+
+public class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+		int N = Integer.parseInt(br.readLine());
+		
+	
+		long cnt = 0; // 쌍의 수
+		//사람의 수 N이 500,000 이라서 2중 포문을 쓰면 N^2 로 250,000,000,000 이라 
+		//int 범위를 넘어서 long으로 선언해야함
+		
+		Stack<int[]> stack = new Stack<>();
+		
+		// 사람의 키와 중복되는 사람의 수를 담을 int[]
+
+		for (int i = 0; i < N; i++) {// N번 반복
+			int h = Integer.parseInt(br.readLine()); //키를 입력받고
+			int h_cnt = 1;//기본적으로 1명을 의미하는 h_cnt를 만듬
+			
+			while (!stack.isEmpty() && stack.peek()[0] <= h) {
+				//앞사람이 새로들어오는 사람보다 키가 작거나 같으면 반복
+				if (stack.peek()[0] == h) {
+					h_cnt += stack.peek()[1]; //앞사람과 키가 같으면 그사람의 사람 사람수를 h_cnt에 더해줌
+					//만약 앞사람 키가 10이고 2명 겹쳐있는 상태에서 새로들어온 애의 키가 10이면 3번째 10이라는 뜻
+				}
+				cnt+=stack.pop()[1];// 작을 때는 뒤의 사람들은 이 사람을 어차피 볼 수 없으므로 pop하고 그 사람수 만큼 더해줌
+			} // while 끝
+			
+			
+			 if(!stack.empty()) {
+				 cnt++;
+			 }//앞 사람이 새로 들어온 애보다 큰 경우는 1쌍 밖에 안됨
+			 
+			stack.push(new int[] { h, h_cnt });
+   
+			//들어온 사람을 스택에 추가 기본적으로 사람수 1
+			//겹쳐있는 사람이 pop 됐으면 그 사람 수만큼 h_cnt가 올라갔으니까 3번째 10이면 1+2 해서 사람수가 3으로 들어감
+			//4 2 2 5의 경우에 
+			//2 2 비교하고 2가 pop 되고 h_cnt가 2가 되고 cnt는 2의 cnt인 1만큼 오르고 다시 반복문을 실행
+			//4 2가 비교되고 4가 더 크므로 cnt++
+			//다음에 2가 스택에 push되는데 h_cnt가 2인 상태
+			// 4 2(사람수 2) 5 
+			//2 5 비교해서 5가 더크니까 2가 pop 되고 그 사람수 만큼 cnt에 더해짐
+			//같은 키의 사람이 있는 경우에 그 사람을  pop하지 않으면 stack의 특성상 그 뒤에 있는 요소에 접근할 수 없고
+			//pop해버리면 다음에 들어올 사람이랑 쌍이 되어야하는 경우의 수가 지워짐
+			//그 뒤론 똑같음
+			
+		}//for 끝
+		bw.write(cnt + "");
+		bw.flush();
+		bw.close();
+		br.close();
+	}
+}
+//새로운 클래스를 만들거나 배열을 선언해서 데이터들을 묶는 풀이법을 생각해두기
