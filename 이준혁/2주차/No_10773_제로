@@ -1,0 +1,35 @@
+import java.util.Scanner;
+import java.util.Stack;
+
+// !! 백준에 제출할 때는 Main으로 변경
+public class No_10773_제로 {
+
+	public static void main(String[] args) {
+		// 재현이가 장부 관리할 때 돈을 잘못 부를 때가 있다.
+		// 그것에 늘 화난 재민이는 0을 외치며 지우게 시킨다.
+		// 모든 수의 합을 알고 싶다.
+		// 첫번째 K, 그 횟수를 반복하여 합을 구한다.
+		
+		Scanner sc = new Scanner(System.in); // 키보드 출력을 위한 스캐너 선언
+		int K = sc.nextInt();
+		
+		int sum = 0; // stack의 합을 더해줄 sum 정의
+		
+		Stack<Integer> money = new Stack<>(); // money라는 이름을 가진 stack 선언
+		
+		for (int i=0; i<K; i++) { // 재현이가 K번 불러서 입력을 받고
+			int jh = sc.nextInt();
+			money.push(jh); // 그 부른 값을 money에 push(삽입)한다.
+			
+			if (jh==0) { // 만약 0이 들어왔을 경우에
+				money.pop(); // 0을 pop(삭제)하고,
+				money.pop(); // 0 이전에 있던 수 역시 pop(삭제)한다.
+			}
+		}
+		
+		while (!money.isEmpty()) { // money라는 stack이 비어있지 않다면 반복 실행
+			sum += money.pop(); // stack에 저장된 수만큼 sum에 더해준다.
+		}
+		System.out.println(sum); // 출력
+	}
+}
