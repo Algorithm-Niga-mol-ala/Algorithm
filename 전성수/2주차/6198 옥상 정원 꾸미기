@@ -1,0 +1,43 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Stack;
+
+public class Main {
+	public static void main(String[] args) throws IOException{
+		
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		int N = Integer.parseInt(br.readLine()); //6
+		String[] str = new String[N]; 
+		for(int i =0; i<N; i++) {
+			str[N-1-i]=br.readLine(); //입력된 순서의 반대로 배열에 받기
+		}
+		//str[5]가 마지막 요소니까 입력받는 순서대로 str[5] = 10 [4]=3 .... [0] = 2
+		
+		
+		Stack<Integer> stack = new Stack<>();
+		Stack<Integer> tmp = new Stack<>();
+		
+		int cnt = 0;
+		for(int i =0; i<N;i++) {
+			stack.push(Integer.parseInt(str[i]));
+		}//Integer객체를 받는 stack에 int로 바꾼 str의 요소들을 넣음
+		//stack에는  바닥 2 12 4 7 3 10 맨위 순서로 들어감
+		
+		for(int i=0; i<N-1; i++) {//N-1 인 이유 스택 바닥에 있는 빌딩에서 관찰할 수 있는 빌딩이 없어서 할 필요 없음
+			int bd = stack.pop(); // 빌딩을 스택에서 꺼냄 
+			 while(!stack.isEmpty()&&bd>stack.peek()) { //스택에서 꺼내면서 확인할거니까 스택이 비면 멈추게 안그러면 에레남
+				 cnt++;
+				 tmp.push(stack.pop());
+			 }//bd 보다 작은 것들은 cnt를 올리고 tmp에 저장
+			 while(!tmp.isEmpty()) {
+				 stack.push(tmp.pop());
+			 }//반복이 끝나면 tmp에 있던 것들을 다시 stack에 복귀 시킴
+
+		}
+		System.out.println(cnt);
+		
+	}
+	
+}
