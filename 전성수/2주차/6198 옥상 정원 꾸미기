@@ -4,3 +4,38 @@
 //문제는 1 ≤ N ≤ 80,000 의 범위이므로 O(N^2)의 알고리즘을 짤 수 없음
 //N이 80000까지 이므로 최악의 경우 80000*80000/2 32억의 관측이 가능하므로 cnt 는 long 타입으로 선언해야함
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Stack;
+
+public class Main {
+	public static void main(String[] args) throws IOException {
+
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		int N = Integer.parseInt(br.readLine()); // 6
+		Stack<Integer> stack = new Stack<>();
+		long cnt = 0; // 범위 때문에 int로 하면 틀림
+  //값들을 스택에 넣어주면서 들어가는 값보다 작은 값은 pop 해줄 것임
+  //스택에 들어가있는 값을 pop 시키지 않고 들어간다는 소리는 스택안에 있는 값들에서 관측이 가능하다는 소리
+  //10 3 7 4 에서
+  //10 이후 3은 10보다 작으니 스택에 들어가는데 그 후 7이 들어오면 7보다 작으므로 pop 됨
+  //그후 들 어온 4는 7보다 작으니 들어오게 되고 4는 10과 7 모두가 관측할 수 있음 이걸 세면 됨
+
+		for (int i = 0; i < N; i++) {
+			int bd = Integer.parseInt(br.readLine());
+			while (!stack.isEmpty() && stack.peek() <= bd) { // stack이 비었는데 peek() 하면 에러발생 && stack 맨 위의 값이 들어오는 값보다 작으면
+    
+
+				stack.pop();
+			}
+			stack.push(bd);
+			cnt += stack.size()-1; // 원래 pop() 뒤에 바로 cnt+=stack.size()를 추가해줬는데 이럴경우 마지막 12 후 2가 들어왔을 때 12에서 2를 관측할 수 있지만
+                              // 반복이 끝나 cnt가 올라가지 않음 그래서 스택에 넣어주고 넣어준 값을 뺀 사이즈를 더해줘서 마지막 반복에서 cnt가 오를 수 있게 함
+
+		}
+
+		System.out.println(cnt);
+	}
+}
