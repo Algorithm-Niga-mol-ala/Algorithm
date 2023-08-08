@@ -28,7 +28,7 @@ public class Main {
 			while (!stack.isEmpty() && stack.peek()[0] <= h) {
 				//앞사람이 새로들어오는 사람보다 키가 작거나 같으면 반복
 				if (stack.peek()[0] == h) {
-					h_cnt += stack.peek()[1]; //앞사람과 키가 같으면 그사람의 사람 사람수를 h_cnt에 더해줌
+					h_cnt += stack.peek()[1]; //앞사람과 키가 같으면 그 사람수를 h_cnt에 더해줌
 					//만약 앞사람 키가 10이고 2명 겹쳐있는 상태에서 새로들어온 애의 키가 10이면 3번째 10이라는 뜻
 				}
 				cnt+=stack.pop()[1];// 작을 때는 뒤의 사람들은 이 사람을 어차피 볼 수 없으므로 pop하고 그 사람수 만큼 더해줌
