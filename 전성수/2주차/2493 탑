@@ -23,13 +23,13 @@ public class Main {
 		//어차피 왼쪽의 요소 먼저 들어온 요소들과 비교할 거니까  stack 에 미리 받아놓을 필요가 없음
     //6 9 5 7 4   에서 6은 비교할 대상이 없고 9는 6이랑만 비교할 수 있고 뒤에 9가 들어오면 9보다 작은 6에는 닿을 수 없음
   
-		for(int i=1; i<=N ; i++) {
+		for(int i=1; i<=N ; i++) {//문제에서 탑의 위치를 1~5로 해서
 			int height =Integer.parseInt(str[i-1]); //str[i] 번 째 인덱스를 height에 담아둠
    
 			while(!tower.isEmpty()) {//스택이 빌 때까지 반복하거나 if가 실행되면 break
    
 				if(tower.peek()[0]>height) {
-          
+          				//tower에는 int[] = new int[]{높이,인덱스} 가 들어있음
 					bw.write(tower.peek()[1]+" ");//지금 탑보다 왼쪽 탑의 높이가 높다면 그 탑의 인덱스를 버퍼에 올림
      
 					break; //반복을 멈추고 새로운 탑을 받음
@@ -40,7 +40,7 @@ public class Main {
 					
 				}
 			}
-			if(tower.isEmpty()) {//스택이 비어있다면 왼쪽에 height 보다 높은 탑이 없다는 것이므로 0을 넣음
+			if(tower.isEmpty()) {//스택이 비어있다면 왼쪽에 height 보다 높은 탑이 없다는 것이므로 0을 넣음, 처음 들어오는 애는 0 6뒤에 들어온 9는 6을 pop시켰으니까 0
 				bw.write(0+" ");
 			}
 			//위는 스택에 들어온 탑과 이미 있는 탑들의 비교
