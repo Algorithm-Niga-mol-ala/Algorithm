@@ -26,7 +26,7 @@ public class Main {
 				if (stack.peek() < h) {// 뒤에 들어올 애들은 이 사람을 못봄
 					stack.pop();
 					cnt++;
-				} else {
+				} else {//키가 같은 애들은 서로를 가리지 않아서 계산에 계속 포함되어야함 pop 해버리면 답이 이상해짐 pop을 안하면 밑에 애들을 꺼낼 수 없음 
 					if (stack.peek() == h) { // 같은 경우
 						pop = stack.pop(); // 값을 빼서 pop 변수에 저장하고
 						dupl++;//몇번 반복되었는지 개수를 셈 (여러번 반복될 수 있으니까)
