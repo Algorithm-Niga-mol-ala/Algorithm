@@ -44,7 +44,7 @@ public class Main {
 		for (int i = N - 1; i >= 0; i--) {
 			if (arr[i] < 0) {
 				sort[cnt[1000000 - Math.abs(arr[i])] - 1] = arr[i];
-				cnt[Math.abs(arr[i])]--;
+				cnt[1000000 - Math.abs(arr[i])]--;
 			} else
 				sort[cnt[arr[i] + 1000000] - 1] = arr[i];
 			cnt[arr[i] + 1000000]--;
