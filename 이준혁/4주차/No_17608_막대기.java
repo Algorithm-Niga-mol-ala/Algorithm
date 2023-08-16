@@ -26,7 +26,7 @@ public class No_17608_막대기 {
 				max = use; // 최대값 변경
 				res++; // 보이니까 1개 추가
 			}
-    }	
+		}	
 		System.out.println(res);
 	}
 }
