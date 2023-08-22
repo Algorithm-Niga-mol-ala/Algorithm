@@ -26,8 +26,6 @@ public class Main {
 		Arrays.sort(dwarf); // 정렬
 		int start = 0;
 		int end = 8;
-		int res1;
-		int res2;
 
 		while (start < end) {
 			if (dwarf[start] + dwarf[end] < gap) {
