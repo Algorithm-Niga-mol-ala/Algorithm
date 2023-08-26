@@ -30,6 +30,24 @@ public class Solution_숫자배열회전 {
                     three[N - 1 - j][i] = rotate[i][j];
                 }
             }
+             
+//          // 다른 방법
+//          for (int i = 0; i < N; i++) {
+//              for (int j = 0; j < N; j++) {
+//                  one[i][N - 1 - i] = rotate[i][j];
+//              }
+//          }
+//          for (int i = 0; i < N; i++) {
+//              for (int j = 0; j < N; j++) {
+//                  two[i][N - 1 - i] = one[i][j];
+//              }
+//          }
+//          for (int i = 0; i < N; i++) {
+//              for (int j = 0; j < N; j++) {
+//                  three[i][N - 1 - i] = two[i][j];
+//              }
+//          }
+             
 //          System.out.println(Arrays.deepToString(one));
 //          System.out.println(Arrays.deepToString(two));
 //          System.out.println(Arrays.deepToString(three));
