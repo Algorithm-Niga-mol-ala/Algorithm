@@ -30,14 +30,48 @@ public class Solution {
                 // N줄의 입력받기
                 String[] line = br.readLine().split("");
                 flag[i] = line;
-         림
+            }
+            int cnt = Integer.MAX_VALUE;
+             
+            int w=1;
+            int b=1;
+             
+             
+            while(w<=N-2) {
+                int tmp_cnt=0;
+                 
+                for(int i=0; i<w; i++) {
+                     
+                    for(int j=0; j<M; j++) {
+                        if(!flag[i][j].equals("W")) {
+                            tmp_cnt++;
+                        }
+                    }
+                }
+                 
+                for(int i=w; i<w+b; i++) {
+                     
+                    for(int j=0; j<M; j++) {
+                        if(!flag[i][j].equals("B")) tmp_cnt++;
+                    }
+                }
+                 
+                 
+                for(int i=w+b; i<N; i++) {
+                     
+                    for(int j=0; j<M; j++) {
+                        if(!flag[i][j].equals("R")) tmp_cnt++;
+                    }
+                }
+                cnt=Math.min(cnt, tmp_cnt);
+                b++;
+                if(b==(N-w)) {
                     b=1;
                     w++;
                 }
                  
             }
-             
-            
+
             sb.append(cnt+"\n");
         }
         bw.write(sb.toString());
