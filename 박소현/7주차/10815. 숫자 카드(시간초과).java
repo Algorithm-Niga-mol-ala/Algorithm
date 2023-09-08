@@ -60,3 +60,77 @@ public class Main10815_숫자카드 {
 	} // main
 
 }
+
+그래서 이진검색함!
+
+package week6;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
+public class Main10815_숫자카드 {
+	static int N, M;
+	static int[] card, search, flag;
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		StringTokenizer st;
+
+		N = Integer.parseInt(br.readLine()); // 숫자 카드의 개수
+		st = new StringTokenizer(br.readLine());
+		card = new int[N];
+		for (int i = 0; i < N; i++) {
+			card[i] = Integer.parseInt(st.nextToken()); // 카드 번호
+		}
+
+		M = Integer.parseInt(br.readLine());
+		st = new StringTokenizer(br.readLine());
+		search = new int[M]; // 숫자카드인지 아닌지 검사할 배열 - 정렬
+		for (int i = 0; i < M; i++) {
+			search[i] = Integer.parseInt(st.nextToken());
+		}
+
+		// search배열의 값이 card에 있는지 확인하여 flag배열에 카운팅할 것 -> card를 정렬해줌
+		Arrays.sort(card);
+
+		// 이진검색
+		flag = new int[M];
+		binarySearch(0, N);
+
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < M - 1; i++) {
+			sb.append(flag[i] + " ");
+		}
+		sb.append(flag[M - 1]);
+
+		bw.write(sb.toString());
+		
+		bw.close();
+		br.close();
+	} // main
+
+	public static void binarySearch(int st, int ed) {
+		if (st > ed)
+			return;
+		int mid = (st + ed) / 2;
+		for (int i = 0; i < M; i++) {
+			if (search[i] == card[mid]) {
+				flag[i] = 1;
+				return;
+			} else if (search[i] < card[mid]) {
+				binarySearch(st, ed - 1);
+			} else
+				binarySearch(st + 1, ed);
+
+		}
+	}
+
+}
+
+또 시간초과 뜸^^
