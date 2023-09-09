@@ -10,7 +10,6 @@ public class Main1094_막대기 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		X = Integer.parseInt(br.readLine());
-		stick = 64;
 		
 		// 23 = 10111, 32 = 100000, 64 = 1000000, 48 = 110000
 		// X를 2진수로 변환했을 때 1의 개수를 세주면 됨!!!! 이번엔 찐 ㅎㅎ
