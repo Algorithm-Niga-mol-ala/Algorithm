@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class bj_11729 {
 	
 	//https://st-lab.tistory.com/96 참고
+	//하노이탑 시뮬레이터 : https://www.mathsisfun.com/games/towerofhanoi.html
 	
 	public static int N;
 	public static StringBuilder sb = new StringBuilder();
