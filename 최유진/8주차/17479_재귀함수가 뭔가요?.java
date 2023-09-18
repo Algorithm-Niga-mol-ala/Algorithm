@@ -19,7 +19,7 @@ public class bj_17478 {
         
         
         if(cnt == N) { // 기저 조건
-        	  printSymbol(cnt);
+            printSymbol(cnt);
             System.out.println("\"재귀함수가 뭔가요?\"");
             printSymbol(cnt);
             System.out.println("\"재귀함수는 자기 자신을 호출하는 함수라네\"");  
@@ -27,7 +27,7 @@ public class bj_17478 {
             System.out.println("라고 답변하였지.");
             return;
         } else { // 반복. 사실 N일 때 return을 해주기 때문에 if/else 구문은 불필요함.
-        	  printSymbol(cnt);
+            printSymbol(cnt);
             System.out.println("\"재귀함수가 뭔가요?\"");
             printSymbol(cnt);
             System.out.println("\"잘 들어보게. 옛날옛날 한 산 꼭대기에 이세상 모든 지식을 통달한 선인이 있었어.");
