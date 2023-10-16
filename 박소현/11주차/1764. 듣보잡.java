@@ -15,8 +15,8 @@ public class Main1764_듣보잡 {
 		int n = Integer.parseInt(st.nextToken());
 		int m = Integer.parseInt(st.nextToken());
 
-		Set<String> s = new HashSet<>(); // treeset은 오름차순으로 담아짐
-		Set<String> ans = new TreeSet<>();
+		Set<String> s = new HashSet<>();
+		Set<String> ans = new TreeSet<>();  // treeset은 오름차순으로 담아짐
 		for (int i = 0; i < n; i++) {
 			s.add(br.readLine());
 		}
