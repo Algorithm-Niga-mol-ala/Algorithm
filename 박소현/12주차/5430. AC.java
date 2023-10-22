@@ -17,11 +17,13 @@ public class Main5430_AC {
 			// [나 ]는 이스케이프문자를 붙여야 한다!!
 			// |로 구분자를 여러 개 쓸 수 있다
 			String[] a = br.readLine().split("\\[|,|\\]");
+			
 			// R로 인해 순서가 바뀌므로 첫 인덱스와 마지막 인덱스 접근이 쉬운 덱 사용
 			Deque<String> dq = new LinkedList<>();
 			for (int i = 1; i < a.length; i++) {
 				dq.add(a[i]); // 덱에 입력된 숫자들 add
 			}
+			
 			int cnt = 0; // 짝수일 때 원래 순서, 홀수일 때 반대 순서, -1일 때 에러
 			loop: for (String order : str) {
 				switch (order) {
