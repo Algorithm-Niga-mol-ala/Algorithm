@@ -10,7 +10,7 @@
 
 ## 🔔 스터디 규칙
 
-### ✅ [커리큘럼 깃허브 링크 (자료구조 베이스)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+### ✅ [커리큘럼 깃허브 링크 (자료구조 베이스)](https://github.com/Altu-Bitu/Notice)
 
 - 매일 1문제씩 총 7문제 (화요일 5문제 & 목요일 2문제)
 
