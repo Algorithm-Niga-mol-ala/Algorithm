@@ -15,6 +15,7 @@ public class Boj_2841_외계인의기타연주 {
 		int N = Integer.parseInt(st.nextToken());
 		int P = Integer.parseInt(st.nextToken());
 
+		//6개의 줄이니까 6개의 스택 (줄마다 따로 손가락을 움직여줘야함)
 		Stack<Integer> stack1 = new Stack<>();
 		Stack<Integer> stack2 = new Stack<>();
 		Stack<Integer> stack3 = new Stack<>();
@@ -27,8 +28,8 @@ public class Boj_2841_외계인의기타연주 {
 
 			st = new StringTokenizer(br.readLine(), " ");
 
-			int num = Integer.parseInt(st.nextToken());
-			int fret = Integer.parseInt(st.nextToken());
+			int num = Integer.parseInt(st.nextToken()); //몇번줄인지
+			int fret = Integer.parseInt(st.nextToken()); //몇번프렛인지
 
 			switch (num) {
 			case 1:
