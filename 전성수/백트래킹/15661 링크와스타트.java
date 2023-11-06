@@ -41,12 +41,12 @@ public class Main {
 
 	static void dfs(int depth) {
 		if (depth == N) {
-
+		//모든 사람의 팀을 정했으면
 			Min = Math.min(Min, game());
 
 			return;
 		}
-
+		//a 팀에 속하는지 
 		visited[depth] = true;
 		dfs(depth + 1);
 		visited[depth] = false;
@@ -57,9 +57,10 @@ public class Main {
 	static int game() {
 		int a = 0;
 		int b = 0;
-
+		
 		for (int i = 0; i < N - 1; i++) {
 			for (int j = i + 1; j < N; j++) {
+				//둘다 a 팀인 경우
 				if (visited[i] && visited[j]) {
 					a+=map[i][j]+map[j][i];
 				} else if (!visited[i] && !visited[j]) {
