@@ -19,7 +19,7 @@ public class Main {
 		
 		prime = new int[5000001];
 		//500만까지의 소인수 구하기
-    
+     
 		for(int i=2; i<prime.length; i++) {
 			prime[i]=i;
 		}//자기자신으로 초기화
