@@ -18,7 +18,7 @@ public class Main {
 		int [] num = new int [N];
 		
 		prime = new int[5000001];
-		//500만까지의 최대공약수 구하기
+		//500만까지의 소인수 구하기
     
 		for(int i=2; i<prime.length; i++) {
 			prime[i]=i;
@@ -30,7 +30,7 @@ public class Main {
 					prime[j]=i;
 				}
 			}
-		}//최대공약수 구하기
+		}//소인수 구하기
 		
 		for(int i=0; i<N; i++) {
 			int now = Integer.parseInt(nums[i]);
@@ -47,7 +47,7 @@ public class Main {
 	static void prime_factorization(int n) {
 		while(n>1) {
 			sb.append(prime[n]).append(" ");
-			n = n/prime[n]; //최대공약수 입력하고 나누기
+			n = n/prime[n]; //소인수 입력하고 나누기
 		}
 		sb.append("\n");
 	}
