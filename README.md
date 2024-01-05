@@ -1,13 +1,13 @@
 # 👊 알고리즘 니가 몰 알아(이재 조굼 알 것 갓다,,,,) 👊
 
 ## 👩🏻‍💻 팀원 소개
-|박소현|이예원|이준혁|전성수|조한빈|이수민|
+|구본민|김준섭|박소현|양성주|이수민|이예원|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/139411346?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411481?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/40230543?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/128347576?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/85666312?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/136299367?v=4" width="200px" />|
-|[@sohoneyee](https://github.com/sohoneyee)|[@yeyeah1](https://github.com/yeyeah1)|[@ljh355](https://github.com/ljh355)|[@no-merit](https://github.com/no-merit)|[@whgksqls9999](https://github.com/whgksqls9999)|[@djsumin](https://github.com/djsumin)|
-|**구본민**|**김준섭**|**양성주**|**조민준**|**<갓>최유진**|
-|<img src="https://avatars.githubusercontent.com/u/139411343?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411367?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411441?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/134778713?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/99077953?v=4" width="200px" />|
-|[@bonkri9](https://github.com/bonkri9)|[@JakeSSAFY](https://github.com/JakeSSAFY)|[@yangsungjoo](https://github.com/yangsungjoo)|[@Cr0c0-MJ](https://github.com/Cr0c0-MJ)|[@choichoijin](https://github.com/choichoijin)|
+|<img src="https://avatars.githubusercontent.com/u/139411343?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411367?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411346?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411441?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/136299367?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/139411481?v=4" width="200px" />|
+|[@bonkri9](https://github.com/bonkri9)|[@JakeSSAFY](https://github.com/JakeSSAFY)|[@sohoneyee](https://github.com/sohoneyee)|[@yangsungjoo](https://github.com/yangsungjoo)|[@djsumin](https://github.com/djsumin)|[@yeyeah1](https://github.com/yeyeah1)|
+|**이준혁**|**전성수**|**조민준**|**조한빈**|**<갓>최유진**|
+|<img src="https://avatars.githubusercontent.com/u/40230543?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/128347576?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/134778713?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/85666312?v=4" width="200px" />|<img src="https://avatars.githubusercontent.com/u/99077953?v=4" width="200px" />|
+|[@ljh355](https://github.com/ljh355)|[@no-merit](https://github.com/no-merit)|[@Cr0c0-MJ](https://github.com/Cr0c0-MJ)|[@whgksqls9999](https://github.com/whgksqls9999)|[@choichoijin](https://github.com/choichoijin)|
 <br />
 
 ## 🔔 스터디 규칙
@@ -28,16 +28,16 @@
 
 ## 📂 폴더 구조
 ```
+├── 📂구본민
+├── 📂김준섭
 ├── 📂박소현
+├── 📂양성주
+├── 📂이수민
 ├── 📂이예원
 ├── 📂이준혁
 ├── 📂전성수
-├── 📂조한빈
-├── 📂이수민
-├── 📂구본민
-├── 📂김준섭
-├── 📂양성주
 ├── 📂조민준
+├── 📂조한빈
 ├── 📂<갓>최유진
 └── 📜README.md
 ```
