@@ -1,4 +1,4 @@
-*** 대소문자 바꿔서 출력하기 ***
+***대소문자 바꿔서 출력하
 ---
 문제 설명
 영어 알파벳으로 이루어진 문자열 str이 주어집니다.
@@ -16,7 +16,7 @@ aBcDeFg
 AbCdEfG
 
 
-*** 푸드 파이트 대회 ***
+***푸드 파이트 대회
 ---
 문제 설명
 수웅이는 매달 주어진 음식을 빨리 먹는 푸드 파이트 대회를 개최합니다. 이 대회에서 선수들은 1대 1로 대결하며, 매 대결마다 음식의 종류와 양이 바뀝니다. 대결은 준비된 음식들을 일렬로 배치한 뒤, 한 선수는 제일 왼쪽에 있는 음식부터 오른쪽으로, 다른 선수는 제일 오른쪽에 있는 음식부터 왼쪽으로 순서대로 먹는 방식으로 진행됩니다. 중앙에는 물을 배치하고, 물을 먼저 먹는 선수가 승리하게 됩니다.
@@ -39,3 +39,39 @@ food[0]은 수웅이가 준비한 물의 양이며, 항상 1입니다.
 food	result
 [1, 3, 4, 6]	"1223330333221"
 [1, 7, 1, 2]	"111303111"
+
+
+***문자열 겹쳐쓰기
+문제 설명
+문자열 my_string, overwrite_string과 정수 s가 주어집니다. 문자열 my_string의 인덱스 s부터 overwrite_string의 길이만큼을 문자열 overwrite_string으로 바꾼 문자열을 return 하는 solution 함수를 작성해 주세요.
+
+제한사항
+my_string와 overwrite_string은 숫자와 알파벳으로 이루어져 있습니다.
+1 ≤ overwrite_string의 길이 ≤ my_string의 길이 ≤ 1,000
+0 ≤ s ≤ my_string의 길이 - overwrite_string의 길이
+
+입출력 예
+my_string	overwrite_string	s	result
+"He11oWor1d"	"lloWorl"	2	"HelloWorld"
+"Program29b8UYP"	"merS123"	7	"ProgrammerS123"
+
+
+***홀짝 구분하기
+문제 설명
+자연수 n이 입력으로 주어졌을 때 만약 n이 짝수이면 "n is even"을, 홀수이면 "n is odd"를 출력하는 코드를 작성해 보세요.
+
+제한사항
+1 ≤ n ≤ 1,000
+입출력 예
+입력 #1
+
+100
+출력 #1
+
+100 is even
+입력 #2
+
+1
+출력 #2
+
+1 is odd
