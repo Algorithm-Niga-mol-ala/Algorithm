@@ -1,7 +1,12 @@
 ### 조민준
 |날짜|난이도|문제 이름|URL|비고|
 |----|----|----|----|----|
-|240107|0|대소문자 바꿔서 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/181949|X|
-|240107|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240|X|
-|240108|0|문자열 겹쳐쓰기|https://school.programmers.co.kr/learn/courses/30/lessons/181943|X|
-|240108|0|홀짝 구분하기|https://school.programmers.co.kr/learn/courses/30/lessons/181944|X|
+|240107|0|대소문자 바꿔서 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/181949|재활中|
+|240107|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240|재활中|
+|240108|0|문자열 겹쳐쓰기|https://school.programmers.co.kr/learn/courses/30/lessons/181943|재활中|
+|240108|0|홀짝 구분하기|https://school.programmers.co.kr/learn/courses/30/lessons/181944|재활中|
+|240113|0|문자열 섞기|https://school.programmers.co.kr/learn/courses/30/lessons/181942|재활中|
+|240113|0|문자 리스트를 문자열로 변환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181941|재활中|
+|240113|0|문자열 곱하기|https://school.programmers.co.kr/learn/courses/30/lessons/181940|재활中|
+|240113|0|더 크게 합치기|https://school.programmers.co.kr/learn/courses/30/lessons/181939|재활中|
+|240113|0|두 수의 연산값 비교하기|https://school.programmers.co.kr/learn/courses/30/lessons/181938|재활中|
