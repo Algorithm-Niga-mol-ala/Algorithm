@@ -8,3 +8,4 @@
 |240110(수)|Lv.2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|
 |240113(토)|Lv.2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|
 |240113(토)|Lv.0|컨트롤 제트|https://school.programmers.co.kr/learn/courses/30/lessons/120853|
+|240114(일)|Lv.2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
