@@ -10,3 +10,8 @@
 |240113|0|문자열 곱하기|https://school.programmers.co.kr/learn/courses/30/lessons/181940|재활中|
 |240113|0|더 크게 합치기|https://school.programmers.co.kr/learn/courses/30/lessons/181939|재활中|
 |240113|0|두 수의 연산값 비교하기|https://school.programmers.co.kr/learn/courses/30/lessons/181938|재활中|
+|240114|0|n의 배수|https://school.programmers.co.kr/learn/courses/30/lessons/181937|재활中|
+|240114|0|공배수|https://school.programmers.co.kr/learn/courses/30/lessons/181936|재활中|
+|240114|0|홀짝에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181935|재활中|
+|240114|0|조건 문자열|https://school.programmers.co.kr/learn/courses/30/lessons/181934|재활中|
+|240114|0|flag에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181933|재활中|
