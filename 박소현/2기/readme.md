@@ -9,4 +9,4 @@
 ||240113(토)|Lv.2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|
 ||240113(토)|Lv.0|컨트롤 제트|https://school.programmers.co.kr/learn/courses/30/lessons/120853|
 ||240114(일)|Lv.2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
-|2주차||||||
+|2주차|240115(월)|Lv.2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973|
