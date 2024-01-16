@@ -5,4 +5,4 @@
 ||240111|실버1|스타트와 링크|[https://www.acmicpc.net/problem/14889](https://www.acmicpc.net/problem/14889)|몰룽|
 ||240113|1|오픈채팅방|https://school.programmers.co.kr/learn/courses/30/lessons/42888|2019 KAKAO WINTER INTERNSHIP|
 ||240113|2|도넛과 막대|[https://school.programmers.co.kr/learn/courses/30/lessons/258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|2024 KAKAO WINTER INTERNSHIP|
-|2주차||||||
+|2주차|240116|골드4|최단경로|https://www.acmicpc.net/problem/1753|다익스트라|
