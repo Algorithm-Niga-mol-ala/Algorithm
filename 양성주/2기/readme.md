@@ -6,4 +6,4 @@
 ||240109|1|수박수박수박수박수박수?|https://school.programmers.co.kr/learn/courses/30/lessons/12922|
 ||240113|1|핸드폰 번호 가리기|https://school.programmers.co.kr/learn/courses/30/lessons/12948|
 ||240113|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|
-|2주차||||||
+|2주차|240116|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973||
