@@ -6,3 +6,4 @@
 ||240113|1|오픈채팅방|https://school.programmers.co.kr/learn/courses/30/lessons/42888|2019 KAKAO WINTER INTERNSHIP|
 ||240113|2|도넛과 막대|[https://school.programmers.co.kr/learn/courses/30/lessons/258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|2024 KAKAO WINTER INTERNSHIP|
 |2주차|240116|골드4|최단경로|https://www.acmicpc.net/problem/1753|다익스트라|
+|2주차|240117|골드3|경사로|[https://www.acmicpc.net/problem/1753](https://www.acmicpc.net/problem/14890)|몰라|
