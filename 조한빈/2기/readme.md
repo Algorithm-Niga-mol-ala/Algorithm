@@ -7,4 +7,4 @@
 ||240110|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162|알고리즘 고득점 Kit|
 ||240113|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576|알고리즘 고득점 Kit|
 ||240113|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845|알고리즘 고득점 Kit|
-|2주차||||||
+|2주차||||||||240117|3|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점 Kit|
