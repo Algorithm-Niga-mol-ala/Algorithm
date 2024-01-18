@@ -7,3 +7,4 @@
 ||240113|1|핸드폰 번호 가리기|https://school.programmers.co.kr/learn/courses/30/lessons/12948|
 ||240113|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|
 |2주차|240116|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973||
+||240118|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240||
