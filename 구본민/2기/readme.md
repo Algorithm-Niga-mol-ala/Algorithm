@@ -6,4 +6,5 @@
 ||240113|0|배열 두배 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/120809|재활|
 ||240114|1|두 정수 사이의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12912|재활|
 |2주차|240115|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|즐거운재활|
-||240115|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|재활재활|
+||240116|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|재활재활|
+||240118|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933|언제까지재활|
