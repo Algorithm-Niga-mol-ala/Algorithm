@@ -15,4 +15,5 @@
 ||240114|0|홀짝에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181935|재활中|
 ||240114|0|조건 문자열|https://school.programmers.co.kr/learn/courses/30/lessons/181934|재활中|
 ||240114|0|flag에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181933|재활中|
-|2주차||||||
+|2주차|240118|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|재활中 , 정렬|
+||240118|0|마지막 두 원소|https://school.programmers.co.kr/learn/courses/30/lessons/181927|재활中 , 배열 카피|
