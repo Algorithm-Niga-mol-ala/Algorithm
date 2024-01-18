@@ -8,3 +8,4 @@
 |1주차|240114|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162|깊이/너비 우선 탐색 (DFS/BFS)|
 |2주차|240115|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576|해시|
 |2주차|240116|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845|해시|
+|2주차|240116|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577|해시|
