@@ -10,3 +10,4 @@
 ||240113(토)|Lv.0|컨트롤 제트|https://school.programmers.co.kr/learn/courses/30/lessons/120853|
 ||240114(일)|Lv.2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
 |2주차|240115(월)|Lv.2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973|
+||240118(목)|Lv.1|가장 많이 받은 선물|https://school.programmers.co.kr/learn/courses/30/lessons/258712|
