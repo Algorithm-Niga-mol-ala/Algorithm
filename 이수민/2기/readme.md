@@ -7,3 +7,4 @@
 ||240113|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162|dfs/bfs|
 ||240114|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937|수학 간단구현|
 |2주차|240118|수박수박수박수박수박수?|1|https://school.programmers.co.kr/learn/courses/30/lessons/12922|구현|
+||240119|평균구하기|1|https://school.programmers.co.kr/learn/courses/30/lessons/12944|자료형 주의|
