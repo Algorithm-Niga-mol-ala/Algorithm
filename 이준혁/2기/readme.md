@@ -6,4 +6,5 @@
 ||240112(금)|1|가장 가까운 같은 글자|https://school.programmers.co.kr/learn/courses/30/lessons/142086|연습문제, includes와 lastIndexOf의 사용법|
 ||240113(토)|1|기사단원의 무기|https://school.programmers.co.kr/learn/courses/30/lessons/136798|연습문제, 약수의 시간복잡도 해결 (sqrt 활용)|
 ||240114(일)|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240|연습문제, 배열의 split과 join을 활용한 문자열 뒤집기|
-|2주차||||||
+|2주차|240119(금)|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|연습문제, 문자열을 split으로 배열화하여 정렬|
+||240119(금)|난이도|제목|링크|설명|
