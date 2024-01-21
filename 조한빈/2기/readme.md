@@ -9,3 +9,4 @@
 ||240113|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845|알고리즘 고득점 Kit|
 |2주차|240117|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점 Kit|
 ||240119|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577|알고리즘 고득점 Kit|
+||240121|1|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939||
