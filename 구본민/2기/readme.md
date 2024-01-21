@@ -10,3 +10,4 @@
 ||240118|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933|언제까지재활|
 ||240119|1|제일 작은 수 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12935|재활|
 ||240120|1|나누어 떨어지는 숫자 배열|https://school.programmers.co.kr/learn/courses/30/lessons/12910|재활|
+||240121|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|재활|
