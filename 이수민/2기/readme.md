@@ -8,3 +8,4 @@
 ||240114|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937|수학 간단구현|
 |2주차|240118|수박수박수박수박수박수?|1|https://school.programmers.co.kr/learn/courses/30/lessons/12922|구현|
 ||240119|평균구하기|1|https://school.programmers.co.kr/learn/courses/30/lessons/12944|자료형 주의|
+||240121|최댓값과 최솟값|2|https://school.programmers.co.kr/learn/courses/30/lessons/12939|문자열 쪼개기!|
