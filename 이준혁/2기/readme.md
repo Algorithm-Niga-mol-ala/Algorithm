@@ -8,3 +8,5 @@
 ||240114(일)|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240|연습문제, 배열의 split과 join을 활용한 문자열 뒤집기|
 |2주차|240119(금)|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|연습문제, 문자열을 split으로 배열화하여 정렬|
 ||240119(금)|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|연습문제, 아스키코드로 풀어도 되겠지만 정규표현식과 toLowerCase와 toUpperCase를 활용해서 해결|
+||240121(일)|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|연습문제, sort에 화살표 함수 적용하여 푸는 일반 수학 문제|
+||240121(일)|2|제목|주소|설명|
