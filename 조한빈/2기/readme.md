@@ -7,7 +7,7 @@
 ||240110|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162||
 ||240113|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576||
 ||240113|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845||
-|2주차|240117|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586||
-||240119|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577||
-||240121|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939||
-||240121|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941||
+|2주차|240117(수)|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586||
+||240119(금)|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577||
+||240121(일)|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939||
+||240121(일)|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941||
