@@ -9,4 +9,4 @@
 |2주차|240119(금)|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|연습문제, 문자열을 split으로 배열화하여 정렬|
 ||240119(금)|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|연습문제, 아스키코드로 풀어도 되겠지만 정규표현식과 toLowerCase와 toUpperCase를 활용해서 해결|
 ||240121(일)|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|연습문제, sort에 화살표 함수 적용하여 푸는 일반 수학 문제|
-||240121(일)|2|제목|주소|설명|
+||240121(일)|1|숫자의 표현|https://school.programmers.co.kr/learn/courses/30/lessons/12924|연습문제, 2문제가 시간복잡도가 터져서,, 일단 제출합니다,, 터진 문제 더 풀어올게요,,|
