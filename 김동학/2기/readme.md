@@ -7,3 +7,5 @@
 ||240114|0|홀짝에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181935||
 |2주차|240119|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240||
 ||240119|1|햄버거 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/133502||
+||240121|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
+||240121|1|크기가 작은 부분문자열|https://school.programmers.co.kr/learn/courses/30/lessons/147355||
