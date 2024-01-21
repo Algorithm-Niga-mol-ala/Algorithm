@@ -17,3 +17,5 @@
 ||240114|0|flag에 따라 다른 값 반환하기|https://school.programmers.co.kr/learn/courses/30/lessons/181933|재활中|
 |2주차|240118|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|재활中 , 정렬|
 ||240118|0|마지막 두 원소|https://school.programmers.co.kr/learn/courses/30/lessons/181927|재활中 , 배열 카피|
+||240121|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|재활中 ,split(), Integer|
+||240121|0|수 조작하기1|https://school.programmers.co.kr/learn/courses/30/lessons/181926|재활中 , 조건문, 반복문|
