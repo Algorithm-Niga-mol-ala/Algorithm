@@ -8,3 +8,5 @@
 ||240113|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|
 |2주차|240116|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973||
 ||240118|1|푸드 파이트 대회|https://school.programmers.co.kr/learn/courses/30/lessons/134240||
+||240121|1|나누어 떨어지는 숫자 배열|https://school.programmers.co.kr/learn/courses/30/lessons/12910||
+||240121|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943||
