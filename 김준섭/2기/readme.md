@@ -11,3 +11,4 @@
 |2주차|240116|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577|해시|
 |2주차|240121|2|의상|https://school.programmers.co.kr/learn/courses/30/lessons/42578|해시|
 |2주차|240121|3|베스트 앨범|https://school.programmers.co.kr/learn/courses/30/lessons/42579|해시|
+|3주차|240122|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|스택/큐|
