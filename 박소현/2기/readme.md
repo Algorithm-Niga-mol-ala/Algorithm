@@ -14,3 +14,4 @@
 ||240118(목)|Lv.2|뒤에 있는 큰 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/154539|
 ||240120(토)|Lv.2|무인도 여행|https://school.programmers.co.kr/learn/courses/30/lessons/154540|
 ||240120(토)|Lv.1|개인정보 수집 유효기간|https://school.programmers.co.kr/learn/courses/30/lessons/150370|
+|3주차|2401202(월)|Lv.1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|고득점kit|
