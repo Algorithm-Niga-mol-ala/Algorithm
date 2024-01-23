@@ -12,3 +12,4 @@
 ||240120|1|나누어 떨어지는 숫자 배열|https://school.programmers.co.kr/learn/courses/30/lessons/12910|재활|
 ||240121|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|재활|
 |3주차|240123|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862#|탐욕법(고득점Kit)|
+||240123|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937||
