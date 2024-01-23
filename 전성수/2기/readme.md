@@ -9,3 +9,4 @@
 ||240117|골드3|경사로|[https://www.acmicpc.net/problem/14890](https://www.acmicpc.net/problem/14890)|몰라|
 ||240121|골드5|두용액|https://www.acmicpc.net/problem/2470|투포인터|
 ||240121|골드3|소수의연속합|https://www.acmicpc.net/problem/1644|투포인터|
+|3주차|240124|골드2|가운데를 말해요|https://www.acmicpc.net/problem/1655|뭐여|
