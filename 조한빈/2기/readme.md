@@ -12,4 +12,4 @@
 ||240121|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939||
 ||240121|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941||
 ||240122|2|더 맵게|https://school.programmers.co.kr/learn/courses/30/lessons/42626|알고리즘 고득점 Kit|
-||240123|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|알고리즘 고득점 Kit|
+||240123|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909||
