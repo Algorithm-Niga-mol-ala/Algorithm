@@ -10,3 +10,4 @@
 ||240119|평균구하기|1|https://school.programmers.co.kr/learn/courses/30/lessons/12944|자료형 주의|
 ||240121|최댓값과 최솟값|2|https://school.programmers.co.kr/learn/courses/30/lessons/12939|문자열 쪼개기!|
 ||240121|가운데 글자 가져오기|1|https://school.programmers.co.kr/learn/courses/30/lessons/12903|String.valueOf|
+|3주차|240124|K번째 정렬|1|https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java|알고리즘 고득점 KIT|
