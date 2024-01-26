@@ -11,4 +11,4 @@
 ||240121(일)|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|연습문제, sort에 화살표 함수 적용하여 푸는 일반 수학 문제|
 ||240121(일)|1|평균 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/12944|연습문제, 2문제가 시간복잡도가 터져서,, 일단 제출합니다,, 터진 문제 더 풀어올게요,,|
 |3주차|240126(금)|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746|코딩테스트 고득점 Kit(정렬), 쉬운데 어려웠다. 아무래도 자바와 달리 형이 구분되지 않아 문자열에서의 연산에 대한 이해를 바탕으로 sort 기준을 삼는 것이 중요할듯|
-||240126(금)|난이도|제목|주소|주석|
+||240126(금)|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|코딩테스트 고득점 Kit(스택/큐), 스택/큐라는 부분에 집착해 직접 구현해야하나 고민했는데, 입출력마다의 LIFO나 FIFO를 고민할 필요가 없었기에 인덱스 단위의 비교만으로 처리되는 간단한 문제|
