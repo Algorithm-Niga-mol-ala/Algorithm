@@ -19,5 +19,5 @@
 ||240118|0|마지막 두 원소|https://school.programmers.co.kr/learn/courses/30/lessons/181927|재활中 , 배열 카피|
 ||240121|2|최댓값과 최솟값|https://school.programmers.co.kr/learn/courses/30/lessons/12939|재활中 ,split(), Integer|
 ||240121|0|수 조작하기1|https://school.programmers.co.kr/learn/courses/30/lessons/181926|재활中 , 조건문, 반복문|
-||240126|0|이어 붙인 수|https://school.programmers.co.kr/learn/courses/30/lessons/181928|재활中 , 조건문, 반복문|
+|3주차|240126|0|이어 붙인 수|https://school.programmers.co.kr/learn/courses/30/lessons/181928|재활中 , 조건문, 반복문|
 ||240126|1|k번째수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|재활中 , 정렬|
