@@ -9,3 +9,5 @@
 ||240119|1|햄버거 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/133502||
 ||240121|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
 ||240121|1|크기가 작은 부분문자열|https://school.programmers.co.kr/learn/courses/30/lessons/147355||
+|3주차|240126|1|나머지가 1이되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389||
+||240126|1|가장가까운 같은 글자|https://school.programmers.co.kr/learn/courses/30/lessons/142086||
