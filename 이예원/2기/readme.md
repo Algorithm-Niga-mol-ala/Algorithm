@@ -11,6 +11,6 @@
 ||240121|2|뒤에 있는 큰 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/154539||
 ||240121|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491|알고리즘 고득점 Kit|
 |3주차|240125|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576|알고리즘 고득점 Kit|
-||24012|||https://school.programmers.co.kr/learn/courses/30/lessons/||
+||240126|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점 Kit|
 ||24012|||https://school.programmers.co.kr/learn/courses/30/lessons/||
 ||24012|||https://school.programmers.co.kr/learn/courses/30/lessons/||
