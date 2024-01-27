@@ -12,3 +12,6 @@
 ||240121|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943||
 |3주차|240123|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|알고리즘 고득점 Kit|
 ||240123|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051||
+||240127|0|홀수 vs 짝수|https://school.programmers.co.kr/learn/courses/30/lessons/181887||
+||240127|1|가운데 글자 가져오기|https://school.programmers.co.kr/learn/courses/30/lessons/12903||
+
