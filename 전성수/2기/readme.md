@@ -12,4 +12,4 @@
 |3주차|240124|골드2|가운데를 말해요|https://www.acmicpc.net/problem/1655|뭐여|
 ||240126|골드3|사다리조|https://www.acmicpc.net/problem/15684|뭐여|
 ||240127|골드3|드래곤커브|https://www.acmicpc.net/problem/15685|뭐여|
-||240127||||뭐여|
+||240127|3|가장 먼 노드|https://school.programmers.co.kr/learn/courses/30/lessons/49189|뭐여|
