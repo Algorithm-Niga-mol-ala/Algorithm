@@ -12,5 +12,5 @@
 ||240121|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491|알고리즘 고득점 Kit|
 |3주차|240125|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576|알고리즘 고득점 Kit|
 ||240126|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점 Kit|
-||24012|||https://school.programmers.co.kr/learn/courses/30/lessons/||
-||24012|||https://school.programmers.co.kr/learn/courses/30/lessons/||
+||240128|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
+||240128|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969||
