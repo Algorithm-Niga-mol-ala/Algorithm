@@ -21,3 +21,5 @@
 ||240121|0|수 조작하기1|https://school.programmers.co.kr/learn/courses/30/lessons/181926|재활中 , 조건문, 반복문|
 |3주차|240126|0|이어 붙인 수|https://school.programmers.co.kr/learn/courses/30/lessons/181928|재활中 , 조건문, 반복문|
 ||240126|1|k번째수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|재활中 , 정렬|
+||240128|1|없는숫자더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|조건문, 반복문|
+||240128|1|나머지가 1이 되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389|조건문, 반복문|
