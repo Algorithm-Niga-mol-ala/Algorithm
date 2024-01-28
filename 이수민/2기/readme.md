@@ -13,3 +13,4 @@
 |3주차|240124|1|K번째 정렬|https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java|알고리즘 고득점 KIT|
 ||240126|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928|쉬운문제|
 ||240127|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969|쉬운문제|
+||240128|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945|dp|
