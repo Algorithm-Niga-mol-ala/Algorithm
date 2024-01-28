@@ -14,3 +14,4 @@
 |3주차|240122(월)|2|더 맵게|https://school.programmers.co.kr/learn/courses/30/lessons/42626|알고리즘 고득점 Kit|
 ||240123(화)|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909||
 ||240128(일)|1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|알고리즘 고득점 Kit|
+||240128(일)|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|알고리즘 고득점 Kit|
