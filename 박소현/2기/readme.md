@@ -16,3 +16,5 @@
 ||240120(토)|Lv.1|개인정보 수집 유효기간|https://school.programmers.co.kr/learn/courses/30/lessons/150370|
 |3주차|2401202(월)|Lv.1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|고득점kit|
 ||240126(금)|Lv.3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162|
+||240128(일)|Lv.1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|
+||240128(일)|Lv.2|기능 개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|
