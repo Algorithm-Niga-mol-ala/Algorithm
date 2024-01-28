@@ -12,3 +12,4 @@
 ||240121|1|가운데 글자 가져오기|https://school.programmers.co.kr/learn/courses/30/lessons/12903|String.valueOf|
 |3주차|240124|1|K번째 정렬|https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java|알고리즘 고득점 KIT|
 ||240126|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928|쉬운문제|
+||240127|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969|쉬운문제|
