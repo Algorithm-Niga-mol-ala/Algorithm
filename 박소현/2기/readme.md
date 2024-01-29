@@ -18,3 +18,4 @@
 ||240126(금)|Lv.3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162|
 ||240128(일)|Lv.1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|알고리즘 고득점kit|
 ||240128(일)|Lv.2|기능 개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점kit|
+|4주차|240130(화)|Lv.2|의상|https://school.programmers.co.kr/learn/courses/30/lessons/42578|알고리즘 고득점kit|
