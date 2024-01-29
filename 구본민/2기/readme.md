@@ -16,3 +16,4 @@
 ||240124|1|핸드폰 번호 가리기|https://school.programmers.co.kr/learn/courses/30/lessons/12948||
 ||240127|1|음양 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/76501|공통플젝홧팅|
 ||240128|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|홧팅...|
+|4주차|240129|1|x만큼 간격이 있는 n개의 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12954|아자아자|
