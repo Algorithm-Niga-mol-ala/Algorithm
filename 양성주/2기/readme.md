@@ -14,4 +14,6 @@
 ||240123|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051||
 ||240127|0|홀수 vs 짝수|https://school.programmers.co.kr/learn/courses/30/lessons/181887||
 ||240127|1|가운데 글자 가져오기|https://school.programmers.co.kr/learn/courses/30/lessons/12903||
+|4주차|240130|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951||
+||240130|2|피로도|https://school.programmers.co.kr/learn/courses/30/lessons/87946|dfs|
 
