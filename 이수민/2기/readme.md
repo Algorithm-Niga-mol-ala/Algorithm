@@ -14,3 +14,4 @@
 ||240126|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928|쉬운문제|
 ||240127|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969|쉬운문제|
 ||240128|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945|dp|
+|4주차|240130|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|구현|
