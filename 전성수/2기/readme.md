@@ -15,3 +15,4 @@
 ||240127|3|가장 먼 노드|https://school.programmers.co.kr/learn/courses/30/lessons/49189|bfs|
 ||240128|1|완주하지못한선|https://school.programmers.co.kr/learn/courses/30/lessons/42576|map|
 |4주차|240130|3|N으로 표현|https://school.programmers.co.kr/learn/courses/30/lessons/42895|dp|
+||240131|3|정수 삼각형|https://school.programmers.co.kr/learn/courses/30/lessons/43105|dp|
