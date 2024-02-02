@@ -15,3 +15,4 @@
 ||240123(화)|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909||
 ||240128(일)|1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|알고리즘 고득점 Kit / 세그먼트트리 풀이|
 ||240128(일)|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|알고리즘 고득점 Kit|
+|4주차|240202(금)|3|정수 삼각형|https://school.programmers.co.kr/learn/courses/30/lessons/43105|알고리즘 고득점 Kit|
