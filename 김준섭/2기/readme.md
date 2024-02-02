@@ -15,3 +15,5 @@
 |3주차|240124|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=java|스택/큐|
 |3주차|240128|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|스택/큐|
 |3주차|240128|2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587|스택/큐|
+|4주차|240202|2|다리를 지나는 트럭|https://school.programmers.co.kr/learn/courses/30/lessons/42583|스택/큐|
+|4주차|240202|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746|정렬|
