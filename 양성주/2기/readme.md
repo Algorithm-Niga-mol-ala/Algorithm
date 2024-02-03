@@ -16,4 +16,6 @@
 ||240127|1|가운데 글자 가져오기|https://school.programmers.co.kr/learn/courses/30/lessons/12903||
 |4주차|240130|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951||
 ||240130|2|피로도|https://school.programmers.co.kr/learn/courses/30/lessons/87946|dfs|
+||240204|0|양꼬치|https://school.programmers.co.kr/learn/courses/30/lessons/120830||
+||240204|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933||
 
