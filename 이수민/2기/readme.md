@@ -17,3 +17,4 @@
 |4주차|240130|2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|구현|
 ||240202|0|두 수의 나눗셈|https://school.programmers.co.kr/learn/courses/30/lessons/120806|재활|
 ||240204|1|x만큼 간격이 있는 n개의 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12954|long과 int 형변환 주의|
+||240204|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|아직 푸는중.(흔적)|
