@@ -17,5 +17,6 @@
 ||240128(일)|1|같은 숫자는 싫어|https://school.programmers.co.kr/learn/courses/30/lessons/12906|알고리즘 고득점 Kit|
 |4주차|240202(금)|3|정수 삼각형|https://school.programmers.co.kr/learn/courses/30/lessons/43105|알고리즘 고득점 Kit|
 ||240202(금)|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
+||240204(일)|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
 
 
