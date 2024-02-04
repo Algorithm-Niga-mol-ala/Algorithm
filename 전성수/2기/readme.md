@@ -17,3 +17,5 @@
 |4주차|240130|3|N으로 표현|https://school.programmers.co.kr/learn/courses/30/lessons/42895|dp|
 ||240131|3|정수 삼각형|https://school.programmers.co.kr/learn/courses/30/lessons/43105|dp|
 ||240201|2|타겟 넘버|https://school.programmers.co.kr/learn/courses/30/lessons/43165|dfs|
+||240204|실버2|가장 큰 증가하는 부분 수열|https://www.acmicpc.net/problem/11055|dp|
+||240204|3|순위|https://school.programmers.co.kr/learn/courses/30/lessons/49191|그래프|
