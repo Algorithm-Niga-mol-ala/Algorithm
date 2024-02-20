@@ -14,3 +14,4 @@
 ||240126|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|알고리즘 고득점 Kit|
 ||240128|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
 ||240128|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969||
+|7주차||||||
