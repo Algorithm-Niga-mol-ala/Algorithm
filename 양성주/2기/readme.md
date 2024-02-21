@@ -18,4 +18,5 @@
 ||240130|2|피로도|https://school.programmers.co.kr/learn/courses/30/lessons/87946|dfs|
 ||240204|0|양꼬치|https://school.programmers.co.kr/learn/courses/30/lessons/120830||
 ||240204|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933||
-
+|7주차|240221|1|내적|https://school.programmers.co.kr/learn/courses/30/lessons/70128||
+||240221|1|부족한 금액 계산하기|https://school.programmers.co.kr/learn/courses/30/lessons/82612||
