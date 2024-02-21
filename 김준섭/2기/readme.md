@@ -17,3 +17,4 @@
 |3주차|240128|2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587|스택/큐|
 |4주차|240202|2|다리를 지나는 트럭|https://school.programmers.co.kr/learn/courses/30/lessons/42583|스택/큐|
 |4주차|240202|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746|정렬|
+|7주차|240221|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491|완전탐색|
