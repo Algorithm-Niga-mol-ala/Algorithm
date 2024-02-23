@@ -11,3 +11,5 @@
 ||240121|1|크기가 작은 부분문자열|https://school.programmers.co.kr/learn/courses/30/lessons/147355||
 |3주차|240126|1|나머지가 1이되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389||
 ||240126|1|가장가까운 같은 글자|https://school.programmers.co.kr/learn/courses/30/lessons/142086||
+|7주차|240223|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909||
+||240223|1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748||
