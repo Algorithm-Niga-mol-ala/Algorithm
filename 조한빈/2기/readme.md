@@ -19,5 +19,6 @@
 ||240202(금)|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
 ||240204(일)|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
 |7주차|240223(금)|3|입국심사|https://school.programmers.co.kr/learn/courses/30/lessons/43238|알고리즘 고득점 Kit|
+||240223(금)|1|평균 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/12944||
 
 
