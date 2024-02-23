@@ -20,4 +20,5 @@
 ||240204|실버2|가장 큰 증가하는 부분 수열|https://www.acmicpc.net/problem/11055|dp|
 ||240204|3|순위|https://school.programmers.co.kr/learn/courses/30/lessons/49191|그래프|
 |7주차|240222|2|기능개발|https://school.programmers.co.kr/learn/courses/30/lessons/42586|스택/큐|
+||240223|실버1|미로 탐색|https://www.acmicpc.net/problem/2178|BFS|
 
