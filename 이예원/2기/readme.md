@@ -15,3 +15,4 @@
 ||240128|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
 ||240128|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/12969||
 |7주차|240220|2|조건에 맞는 도서와 저자 리스트 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/144854|SQL 고득점 Kit|
+||240223|2|타겟 넘버|https://school.programmers.co.kr/learn/courses/30/lessons/43165|알고리즘 고득점 Kit|
