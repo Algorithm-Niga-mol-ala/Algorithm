@@ -23,4 +23,5 @@
 ||240223|실버1|미로 탐색|https://www.acmicpc.net/problem/2178|BFS|
 ||240224|실버1|그림|https://www.acmicpc.net/problem/1926|BFS|
 ||240224|실버1|숨바꼭질|https://www.acmicpc.net/problem/1697|BFS|
+||240224|골드4|불!|https://www.acmicpc.net/problem/4179|BFS|
 
