@@ -20,3 +20,4 @@
 ||240204|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|아직 푸는중.(흔적)|
 |7주차|240220|1|소수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12921|에라토스테네스의 체|
 ||240221|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963|3중반복문|
+||240224|1|약수의 개수와 덧셈|https://school.programmers.co.kr/learn/courses/30/lessons/77884|연산|
