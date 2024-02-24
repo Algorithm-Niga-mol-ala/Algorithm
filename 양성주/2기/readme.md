@@ -20,3 +20,7 @@
 ||240204|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933||
 |7주차|240221|1|내적|https://school.programmers.co.kr/learn/courses/30/lessons/70128||
 ||240221|1|부족한 금액 계산하기|https://school.programmers.co.kr/learn/courses/30/lessons/82612||
+||240224|0|머쓱이보다 키 큰 사람|https://school.programmers.co.kr/learn/courses/30/lessons/120585||
+||240224|1|아픈 동물 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/59036||
+||240224|2|동물수구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59406||
+
