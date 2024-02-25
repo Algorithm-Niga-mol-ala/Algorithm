@@ -19,3 +19,5 @@
 |4주차|240202|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746|정렬|
 |7주차|240221|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491|완전탐색|
 |7주차|240223|1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|정렬|
+|7주차|240225|2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747|정렬|
+|7주차|240225|1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840|완전탐색|
