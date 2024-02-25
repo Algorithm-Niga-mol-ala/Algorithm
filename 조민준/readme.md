@@ -23,3 +23,5 @@
 ||240126|1|k번째수|https://school.programmers.co.kr/learn/courses/30/lessons/42748|재활中 , 정렬|
 ||240128|1|없는숫자더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|조건문, 반복문|
 ||240128|1|나머지가 1이 되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389|조건문, 반복문|
+|7주차|240225|1|흉부외과 또는 일반외과 의사 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/132203|SQL 고득점 Kit - SELECT|
+||240225|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java|조건문, 반복문|
