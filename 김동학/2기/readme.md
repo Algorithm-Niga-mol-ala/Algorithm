@@ -13,3 +13,5 @@
 ||240126|1|가장가까운 같은 글자|https://school.programmers.co.kr/learn/courses/30/lessons/142086||
 |7주차|240223|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909||
 ||240223|1|K번째 수|https://school.programmers.co.kr/learn/courses/30/lessons/42748||
+||240225|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845||
+||240225|2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587||
