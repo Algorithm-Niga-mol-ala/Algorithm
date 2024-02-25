@@ -20,5 +20,6 @@
 ||240204(일)|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점 Kit|
 |7주차|240223(금)|3|입국심사|https://school.programmers.co.kr/learn/courses/30/lessons/43238|알고리즘 고득점 Kit|
 ||240223(금)|1|평균 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/12944||
+||240225(일)|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937||
 
 
