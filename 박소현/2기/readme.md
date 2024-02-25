@@ -22,3 +22,5 @@
 ||240202(금)|Lv.2|최솟값 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12941|정렬 직접 구현해보기,,|
 |7주차|240219(월)|Lv.2|게임 맵 최단거리|https://school.programmers.co.kr/learn/courses/30/lessons/1844|알고리즘 고득점kit|
 ||240223(금)|Lv.1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점kit|
+||240225(일)|Lv.2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
+||240225(일)|Lv.0|옹알이(1)|https://school.programmers.co.kr/learn/courses/30/lessons/120956||
