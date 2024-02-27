@@ -24,4 +24,5 @@
 ||240224|실버1|그림|https://www.acmicpc.net/problem/1926|BFS|
 ||240224|실버1|숨바꼭질|https://www.acmicpc.net/problem/1697|BFS|
 ||240224|골드4|불!|https://www.acmicpc.net/problem/4179|BFS|
-
+|8주차|240228|실버1|곱셈|https://www.acmicpc.net/problem/1629|재귀|
+||240228|실버1|Z|https://www.acmicpc.net/problem/1074|재귀|
