@@ -22,3 +22,4 @@
 |7주차|240225|2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747|정렬|
 |7주차|240225|1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840|완전탐색|
 |8주차|240227|2|주식가격|https://school.programmers.co.kr/learn/courses/30/lessons/42584|스택/큐|
+|8주차|240229|2|소수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/42839|완전탐색|
