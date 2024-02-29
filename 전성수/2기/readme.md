@@ -28,3 +28,4 @@
 ||240228|실버1|Z|https://www.acmicpc.net/problem/1074|재귀|
 ||240229|실버1|안전영역|https://www.acmicpc.net/problem/2468|BFS|
 ||240229|골드4|맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|BFS|
+||240229|실버2|부분수열의 합|https://www.acmicpc.net/problem/1182|백트래킹|
