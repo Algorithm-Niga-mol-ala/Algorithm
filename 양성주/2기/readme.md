@@ -25,3 +25,5 @@
 ||240224|2|동물수구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59406||
 |8주차|240301|0|qr code|https://school.programmers.co.kr/learn/courses/30/lessons/181903||
 ||240301|0|세로 읽기|https://school.programmers.co.kr/learn/courses/30/lessons/181904||
+||240302|1|최댓값 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59415||
+||240302|2|최솟값 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59038||
