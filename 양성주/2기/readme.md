@@ -23,4 +23,5 @@
 ||240224|0|머쓱이보다 키 큰 사람|https://school.programmers.co.kr/learn/courses/30/lessons/120585||
 ||240224|1|아픈 동물 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/59036||
 ||240224|2|동물수구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59406||
-
+|8주차|240301|0|qr code|https://school.programmers.co.kr/learn/courses/30/lessons/181903||
+||240301|0|세로 읽기|https://school.programmers.co.kr/learn/courses/30/lessons/181904||
