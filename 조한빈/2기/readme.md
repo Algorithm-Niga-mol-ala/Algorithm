@@ -23,5 +23,6 @@
 ||240225(일)|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937||
 ||240225(일)|1|자연수 뒤집어 배열로 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12932||
 |8주차|240228(수)|2|의상|https://school.programmers.co.kr/learn/courses/30/lessons/42578|알고리즘 고득점 Kit|
+||240301(금)|4|징검다리|https://school.programmers.co.kr/learn/courses/30/lessons/43236|알고리즘 고득점 Kit|
 
 
