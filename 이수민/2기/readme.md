@@ -23,3 +23,4 @@
 ||240224|1|약수의 개수와 덧셈|https://school.programmers.co.kr/learn/courses/30/lessons/77884|연산|
 ||240224|1|문자열 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12917|정렬|
 |8주차|240301|1|이웃한 칸|https://school.programmers.co.kr/learn/courses/30/lessons/250125||
+||240301|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|간단 연산|
