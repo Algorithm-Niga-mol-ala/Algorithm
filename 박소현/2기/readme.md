@@ -24,3 +24,4 @@
 ||240223(금)|Lv.1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862|알고리즘 고득점kit|
 ||240225(일)|Lv.2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
 ||240225(일)|Lv.0|옹알이(1)|https://school.programmers.co.kr/learn/courses/30/lessons/120956||
+|8주차|240301(금)|Lv.0|피타고라스의 정리|https://school.programmers.co.kr/learn/courses/30/lessons/250132|PCCE 기출-디버깅|
