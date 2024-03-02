@@ -25,5 +25,6 @@
 |8주차|240228(수)|2|의상|https://school.programmers.co.kr/learn/courses/30/lessons/42578|알고리즘 고득점 Kit|
 ||240301(금)|4|징검다리|https://school.programmers.co.kr/learn/courses/30/lessons/43236|알고리즘 고득점 Kit|
 ||240302(토)|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491|알고리즘 고득점 Kit|
+||240302(토)|1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840|알고리즘 고득점 Kit|
 
 
