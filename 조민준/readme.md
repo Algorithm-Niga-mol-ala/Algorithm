@@ -25,3 +25,5 @@
 ||240128|1|나머지가 1이 되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389|조건문, 반복문|
 |7주차|240225|1|흉부외과 또는 일반외과 의사 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/132203|SQL 고득점 Kit - SELECT|
 ||240225|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java|조건문, 반복문|
+|8주차|240303|2|동물 수 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59406|SQL 고득점 Kit - SUM, MAX, MIN|
+||240303|1|가장 비싼 상품 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/131697|SQL 고득점 Kit - SUM, MAX, MIN|
