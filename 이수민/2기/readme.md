@@ -24,3 +24,4 @@
 ||240224|1|문자열 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12917|정렬|
 |8주차|240301|1|이웃한 칸|https://school.programmers.co.kr/learn/courses/30/lessons/250125||
 ||240301|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|간단 연산|
+||240303|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|substring 잘 사용하기, toUpperCase(),toLowerCase()|
