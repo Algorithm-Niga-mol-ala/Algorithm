@@ -17,3 +17,5 @@
 |5주차|null|null|null|null|프로젝트 마지막 주간이었는데 미리미리 할 걸,,|
 |6주차|240218(일)|2|N개의 최소공배수|https://school.programmers.co.kr/learn/courses/30/lessons/12953|연습문제, gcd, lcm 문제도 오랜만에 풀었다. 생각하기 싫어서 효율 박살나게 인덱스 하나씩 줄여가며 풀었지만, 메모이제이션과 sort할 때 두 개씩 범위를 줄여가며 저장하면 효율이 많이 증가할 것으로 예상된다.|
 ||240218(일)|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973|2017 팁스타운, 스택으로 해결하면 어렵지 않게 풀린다.|
+|7주차|null|null|null|null|개인 일정 이슈|
+|8주차|240303(일)|2|영어 끝말잇기|https://school.programmers.co.kr/learn/courses/30/lessons/12981|인덱스에 따라 조건문 분기 처리하는 문제|
