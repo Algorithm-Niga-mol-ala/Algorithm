@@ -19,3 +19,4 @@
 ||240218(일)|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973|2017 팁스타운, 스택으로 해결하면 어렵지 않게 풀린다.|
 |7주차|null|null|null|null|개인 일정 이슈|
 |8주차|240303(일)|2|영어 끝말잇기|https://school.programmers.co.kr/learn/courses/30/lessons/12981|인덱스에 따라 조건문 분기 처리하는 문제|
+||240303(일)|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937|하루 양심을 팔았읍니다,,|
