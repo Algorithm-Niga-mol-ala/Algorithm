@@ -25,3 +25,5 @@
 |8주차|240229|2|소수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/42839|완전탐색|
 |8주차|240303|2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|완전탐색|
 |8주차|240303|2|피로도|https://school.programmers.co.kr/learn/courses/30/lessons/87946|완전탐색|
+|9주차|240304|2|게임 맵 최단거리|https://school.programmers.co.kr/learn/courses/30/lessons/1844|깊이/너비 우선 탐색 (DFS/BFS)|
+
