@@ -31,4 +31,5 @@
 ||240229|실버2|부분수열의 합|https://www.acmicpc.net/problem/1182|백트래킹|
 ||240303|실버3|2×n 타일링|https://www.acmicpc.net/problem/11726|dp|
 |9주차|240304|실버1|극장좌석|https://www.acmicpc.net/problem/2302|DP|
-||240305|2|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java|bfs|
+||240305|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java|bfs|
+||240305|2|게임 맵 최단거리|https://school.programmers.co.kr/learn/courses/30/lessons/1844|bfs|
