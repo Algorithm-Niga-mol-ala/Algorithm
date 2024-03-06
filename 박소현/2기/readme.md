@@ -27,3 +27,4 @@
 |8주차|240301(금)|Lv.0|피타고라스의 정리|https://school.programmers.co.kr/learn/courses/30/lessons/250132|PCCE 기출-디버깅|
 ||240303(일)|Lv.2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587|알고리즘 고득점kit|
 ||240303(일)|Lv.0|안전지대|https://school.programmers.co.kr/learn/courses/30/lessons/120866||
+|9주차|240306(수)|Lv.1|예산|https://school.programmers.co.kr/learn/courses/30/lessons/12982|summer&winter coding(~2018)|
