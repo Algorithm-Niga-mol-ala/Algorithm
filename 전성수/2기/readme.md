@@ -34,3 +34,4 @@
 ||240305|3|네트워크|https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java|bfs|
 ||240305|2|게임 맵 최단거리|https://school.programmers.co.kr/learn/courses/30/lessons/1844|bfs|
 ||240307|골드3|줄 세우기|https://www.acmicpc.net/problem/2252|위상정렬|
+||240307|골드2|물대기|https://www.acmicpc.net/problem/1368|MST|
