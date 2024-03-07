@@ -26,3 +26,4 @@
 ||240301|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|간단 연산|
 ||240303|2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951|substring 잘 사용하기, toUpperCase(),toLowerCase()|
 ||240303|2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129|StringBuilder 활용(입출력외에도 일케 사용되다닝..)|
+|9주차|240307|1|부족한 금액 계산하기|https://school.programmers.co.kr/learn/courses/30/lessons/82612|간단연산|
