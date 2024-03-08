@@ -20,3 +20,5 @@
 |7주차|null|null|null|null|개인 일정 이슈|
 |8주차|240303(일)|2|영어 끝말잇기|https://school.programmers.co.kr/learn/courses/30/lessons/12981|인덱스에 따라 조건문 분기 처리하는 문제|
 ||240303(일)|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937|하루 양심을 팔았읍니다,,|
+|9주차|240308(금)|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928|원래 알고있던 효율적인 약수 문제, 그런데 중복 제거를 안해서 한 번 틀렸다. 주의해서 풀기|
+||240308(금)|1|?|?|?|
