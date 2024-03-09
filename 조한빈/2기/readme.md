@@ -29,5 +29,6 @@
 |9주차|240307(목)|3|가장 먼 노드|https://school.programmers.co.kr/learn/courses/30/lessons/49189|알고리즘 고득점 Kit|
 ||240308(금)|3|순위|https://school.programmers.co.kr/learn/courses/30/lessons/49191|알고리즘 고득점 Kit|
 ||240310(일)|2|타겟 넘버|https://school.programmers.co.kr/learn/courses/30/lessons/43165|알고리즘 고득점 Kit|
+||240310(일)|3|단어 변환|https://school.programmers.co.kr/learn/courses/30/lessons/43163|알고리즘 고득점 Kit|
 
 
