@@ -23,4 +23,4 @@
 |9주차|240308(금)|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928|원래 알고있던 효율적인 약수 문제, 그런데 중복 제거를 안해서 한 번 틀렸다. 주의해서 풀기|
 ||240308(금)|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|각 자리수 구하는 건 나눗셈으로도 효율이 괜찮다 생각하여 품. stack으로 유사하게 풀거나 slice, split 등 문자열 해결 방식을 이용해도 될듯|
 ||240310(일)|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947|하샤드 수라는 개념을 처음 알았다. toString과 parseInt를 통한 형변환 연습|
-||240310(일)|1|.|.|.|
+||240310(일)|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943|콜라츠 추측, 반복문+조건문으로 해결하는 간단한 문제|
