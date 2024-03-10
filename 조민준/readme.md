@@ -27,3 +27,5 @@
 ||240225|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java|조건문, 반복문|
 |8주차|240303|2|동물 수 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59406|SQL 고득점 Kit - SUM, MAX, MIN|
 ||240303|1|가장 비싼 상품 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/131697|SQL 고득점 Kit - SUM, MAX, MIN|
+|9주차|240310|1|인기있는 아이스크림|https://school.programmers.co.kr/learn/courses/30/lessons/133024|SQL 고득점 Kit - SELECT|
+||240310|1|모든 레코드 조회하기|https://school.programmers.co.kr/learn/courses/30/lessons/59034|SQL 고득점 Kit - SELECT|
