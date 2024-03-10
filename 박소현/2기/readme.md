@@ -28,3 +28,5 @@
 ||240303(일)|Lv.2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587|알고리즘 고득점kit|
 ||240303(일)|Lv.0|안전지대|https://school.programmers.co.kr/learn/courses/30/lessons/120866||
 |9주차|240306(수)|Lv.1|예산|https://school.programmers.co.kr/learn/courses/30/lessons/12982|summer&winter coding(~2018)|
+||240310(일)|Lv.2|JadenCase 문자열 만들기|https://school.programmers.co.kr/learn/courses/30/lessons/12951||
+||240310(일)|Lv.2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129|월간코드 챌린지1|
