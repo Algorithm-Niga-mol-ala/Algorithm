@@ -27,3 +27,6 @@
 ||240301|0|세로 읽기|https://school.programmers.co.kr/learn/courses/30/lessons/181904||
 ||240302|1|최댓값 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59415||
 ||240302|2|최솟값 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/59038||
+|9주차|240306|1|직사각형 별찍기|https://school.programmers.co.kr/learn/courses/30/lessons/181903||
+||240310|0|9로 나눈 나머지|https://school.programmers.co.kr/learn/courses/30/lessons/181914||
+||240310|1|문자열을 정수로 바꾸기|https://school.programmers.co.kr/learn/courses/30/lessons/12925||
