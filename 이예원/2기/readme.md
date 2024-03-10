@@ -18,3 +18,5 @@
 ||240223|2|타겟 넘버|https://school.programmers.co.kr/learn/courses/30/lessons/43165|알고리즘 고득점 Kit|
 ||240225|1|둘만의 암호|https://school.programmers.co.kr/learn/courses/30/lessons/155652||
 ||240225|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919||
+|9주차|240310|0|양꼬치|https://school.programmers.co.kr/learn/courses/30/lessons/120830||
+||240310|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937||
