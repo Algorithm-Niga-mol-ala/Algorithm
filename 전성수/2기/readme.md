@@ -37,3 +37,4 @@
 ||240307|골드2|물대기|https://www.acmicpc.net/problem/1368|MST|
 ||240308|골드4|플로이드|https://www.acmicpc.net/problem/11404|플로이드|
 ||240309|골드4|이분그래프|https://www.acmicpc.net/problem/1707|bfs/dfs|
+||240310|실버2|아기상어2|https://www.acmicpc.net/problem/17086|bfs|
