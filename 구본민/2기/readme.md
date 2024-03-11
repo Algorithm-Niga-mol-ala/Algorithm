@@ -1,4 +1,5 @@
 ### 구본민
+### :palm_tree: 코드트리로 알고리즘 문제를 풀고 있어요!
 |차수|날짜|난이도|문제 이름|URL|비고|
 |--------|----|----|----|----|----------|
 |1주차|240108|1|문자열을 정수로 바꾸기|https://school.programmers.co.kr/learn/courses/30/lessons/12925|재활|
@@ -18,3 +19,4 @@
 ||240128|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|홧팅...|
 |4주차|240129|1|x만큼 간격이 있는 n개의 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12954|아자아자|
 ||240131|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476|1월 종료|
+|10주차|240311|basic|최고의 33위|https://www.codetree.ai/missions/2/problems/best-place-of-33/description|CodeTree|
