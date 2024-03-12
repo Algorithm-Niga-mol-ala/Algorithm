@@ -30,4 +30,5 @@
 ||240308|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933|간단연산|
 ||240310|1|나누어 떨어지는 정수 배열|https://school.programmers.co.kr/learn/courses/30/lessons/12910|간단연산|
 ||240310|2|게임 맵 최단거리|https://school.programmers.co.kr/learn/courses/30/lessons/1844|bfs|
+|9주차|240312|2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747|복잡|
 
