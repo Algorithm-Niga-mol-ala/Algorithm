@@ -39,3 +39,5 @@
 ||240308|골드4|플로이드|https://www.acmicpc.net/problem/11404|플로이드|
 ||240309|골드4|이분그래프|https://www.acmicpc.net/problem/1707|bfs/dfs|
 ||240310|실버2|아기상어2|https://www.acmicpc.net/problem/17086|bfs|
+|10주차|240312|실버3|구간 합 구하기 4|https://www.acmicpc.net/problem/11659|DP|
+||240313|골드5|자두나무|https://www.acmicpc.net/problem/2240|dp|
