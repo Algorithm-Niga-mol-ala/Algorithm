@@ -31,5 +31,6 @@
 ||240310(일)|2|타겟 넘버|https://school.programmers.co.kr/learn/courses/30/lessons/43165|알고리즘 고득점 Kit|
 ||240310(일)|3|단어 변환|https://school.programmers.co.kr/learn/courses/30/lessons/43163|알고리즘 고득점 Kit|
 |10주차|240313(수)|2|하노이의 탑|https://school.programmers.co.kr/learn/courses/30/lessons/12946||
+||240314(목)|3|여행경로|https://school.programmers.co.kr/learn/courses/30/lessons/43164|알고리즘 고득점 Kit|
 
 
