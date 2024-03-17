@@ -29,3 +29,5 @@
 ||240303|1|가장 비싼 상품 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/131697|SQL 고득점 Kit - SUM, MAX, MIN|
 |9주차|240310|1|인기있는 아이스크림|https://school.programmers.co.kr/learn/courses/30/lessons/133024|SQL 고득점 Kit - SELECT|
 ||240310|1|모든 레코드 조회하기|https://school.programmers.co.kr/learn/courses/30/lessons/59034|SQL 고득점 Kit - SELECT|
+|10주차|240317|1|12세 이하인 여자 환자 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/132201|SQL 고득점 Kit - SELECT|
+||240317|1|조건에 맞는 도서 리스트 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/144853|SQL 고득점 Kit - SELECT|
