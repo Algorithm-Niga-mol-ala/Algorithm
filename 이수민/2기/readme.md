@@ -33,4 +33,5 @@
 |10주차|240312|2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747|복잡|
 ||240315|1|문자열 내 p와 y의 개수|https://school.programmers.co.kr/learn/courses/30/lessons/12916|단순|
 ||240317|1|제일 작은 수 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12935#|단순|
+||240317|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|탐욕법|
 
