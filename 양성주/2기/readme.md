@@ -33,3 +33,4 @@
 |10주차|240312|1|나이 정보가 없는 회원 수 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/131528||
 ||240312|2|NULL 처리하기|https://school.programmers.co.kr/learn/courses/30/lessons/59410||
 ||240317|2|3월에 태어난 여성 회원 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/131120||
+||240317|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
