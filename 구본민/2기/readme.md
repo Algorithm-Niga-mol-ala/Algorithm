@@ -22,6 +22,7 @@
 |10주차|240311|basic|최고의 33위|https://www.codetree.ai/missions/2/problems/best-place-of-33/description|CodeTree|
 
 |차수|날짜|문제 이름(url)|난이도|
+|--------|----|----|----|----|
 |11주차|240320|[체크 다이아몬드 ](https://www.codetree.ai/missions/4/problems/check-diamond)|![쉬움][easy]|
 
 
