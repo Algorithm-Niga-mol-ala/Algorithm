@@ -20,3 +20,21 @@
 |4주차|240129|1|x만큼 간격이 있는 n개의 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12954|아자아자|
 ||240131|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476|1월 종료|
 |10주차|240311|basic|최고의 33위|https://www.codetree.ai/missions/2/problems/best-place-of-33/description|CodeTree|
+
+|차수|날짜|문제 이름(url)|난이도|
+|11주차|240320|[체크 다이아몬드 ](https://www.codetree.ai/missions/4/problems/check-diamond)|![쉬움][easy]|
+
+
+
+
+
+
+
+
+
+
+
+
+[easy]: https://img.shields.io/badge/쉬움-%235cb85c.svg?for-the-badge
+[medium]: https://img.shields.io/badge/보통-%23FFC433.svg?for-the-badge
+[hard]: https://img.shields.io/badge/어려움-%23D24D57.svg?for-the-badge
