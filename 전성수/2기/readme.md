@@ -43,3 +43,4 @@
 ||240313|골드5|자두나무|https://www.acmicpc.net/problem/2240|dp|
 ||240313|실버1|단지번호붙이기|https://www.acmicpc.net/problem/2667|bfs|
 |11주차|240408|실버2|유기농 배추|https://www.acmicpc.net/problem/1012|bfs|
+||240409|골드 3|소문난칠공부|https://www.acmicpc.net/problem/1941|백트래킹|
