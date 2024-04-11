@@ -35,4 +35,5 @@
 ||240317|1|제일 작은 수 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12935#|단순|
 ||240317|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|탐욕법|
 |14주차|240410|1|핸드폰 번호 가리기|https://school.programmers.co.kr/learn/courses/30/lessons/12948|단순|
+||240411|2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949|3중포문|
 
