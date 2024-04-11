@@ -34,3 +34,4 @@
 ||240312|2|NULL 처리하기|https://school.programmers.co.kr/learn/courses/30/lessons/59410||
 ||240317|2|3월에 태어난 여성 회원 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/131120||
 ||240317|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
+|11주차|240412|0|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=javascript||
