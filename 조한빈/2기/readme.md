@@ -37,5 +37,7 @@
 ||240316(토)|3|등굣길|https://school.programmers.co.kr/learn/courses/30/lessons/42898|알고리즘 고득점 Kit|
 ||240316(토)|2|소수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/42839|알고리즘 고득점 Kit|
 |11주차|240319(화)|2|삼각 달팽이|https://school.programmers.co.kr/learn/courses/30/lessons/68645||
+|14주차|240412(금)|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931||
+||240412(금)|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928||
 
 
