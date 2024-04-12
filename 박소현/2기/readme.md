@@ -32,3 +32,5 @@
 ||240310(일)|Lv.2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129|월간코드 챌린지1|
 |10주차|240317(일)|Lv.1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051||
 ||240317(일)|Lv.1|공원 산책|https://school.programmers.co.kr/learn/courses/30/lessons/172928||
+|14주차|240412(금)|Lv.1|나머지가 1이 되는 수 찾기|[https://school.programmers.co.kr/learn/courses/30/lessons/86051](https://school.programmers.co.kr/learn/courses/30/lessons/87389)||
+||240412(금)|Lv.1|바탕화면 정리|[https://school.programmers.co.kr/learn/courses/30/lessons/172928](https://school.programmers.co.kr/learn/courses/30/lessons/161990)||
