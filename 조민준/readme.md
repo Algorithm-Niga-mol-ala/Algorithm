@@ -31,3 +31,5 @@
 ||240310|1|모든 레코드 조회하기|https://school.programmers.co.kr/learn/courses/30/lessons/59034|SQL 고득점 Kit - SELECT|
 |10주차|240317|1|12세 이하인 여자 환자 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/132201|SQL 고득점 Kit - SELECT|
 ||240317|1|조건에 맞는 도서 리스트 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/144853|SQL 고득점 Kit - SELECT|
+|14주차|240412|1|과일로 만든 아이스크림 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/133025|SQL 고득점 Kit - SELECT|
+||240412|1|평균 일일 대여 요금 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/151136|SQL 고득점 Kit - SELECT|
