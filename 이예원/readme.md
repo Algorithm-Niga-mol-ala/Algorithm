@@ -8,7 +8,7 @@
 |----|----|----|----|----|----|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 |**예원**|**준혁**|**성수**|**민준**|**한빈**|
-|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 **11주차 주말**
 
