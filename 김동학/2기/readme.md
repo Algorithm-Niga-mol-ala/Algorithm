@@ -19,4 +19,7 @@
 ||240301|1|삼총사|https://school.programmers.co.kr/learn/courses/30/lessons/131705||
 |9주차|42862|1|체육복|https://school.programmers.co.kr/learn/courses/30/lessons/42862||
 ||42577|2|전화번호 목록|https://school.programmers.co.kr/learn/courses/30/lessons/42577||
+|14주차|159994|1|카드뭉치|https://school.programmers.co.kr/learn/courses/30/lessons/159994||
+||42576|1|완주하지못한선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576||
+
 
