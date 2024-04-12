@@ -24,3 +24,5 @@
 ||240308(금)|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931|각 자리수 구하는 건 나눗셈으로도 효율이 괜찮다 생각하여 품. stack으로 유사하게 풀거나 slice, split 등 문자열 해결 방식을 이용해도 될듯|
 ||240310(일)|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947|하샤드 수라는 개념을 처음 알았다. toString과 parseInt를 통한 형변환 연습|
 ||240310(일)|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943|콜라츠 추측, 반복문+조건문으로 해결하는 간단한 문제|
+|14주차|240412(금)|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476|로직은 잘 풀었는데 반례들이 많이 나왔다. 원인은 java와 다르게 js의 sort 부분에서 숫자로 정렬된 게 아닌 문자열로 정렬되기 때문이었다. tangerine.sort((a,b) => (a-b)); 를 통해 숫자 정렬 기준으로 바꿔주니 해결!|
+||240412(금)|?|?|?|오늘 풀어야합니둥|
