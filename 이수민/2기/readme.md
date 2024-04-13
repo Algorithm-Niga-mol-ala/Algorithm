@@ -36,4 +36,6 @@
 ||240317|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|탐욕법|
 |14주차|240410|1|핸드폰 번호 가리기|https://school.programmers.co.kr/learn/courses/30/lessons/12948|단순|
 ||240411|2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949|3중포문|
+||240413|1|내적|https://school.programmers.co.kr/learn/courses/30/lessons/70128|월간 코드 챌린지 시즌1|
+
 
