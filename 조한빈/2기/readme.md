@@ -39,5 +39,6 @@
 |11주차|240319(화)|2|삼각 달팽이|https://school.programmers.co.kr/learn/courses/30/lessons/68645||
 |14주차|240412(금)|1|자릿수 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12931||
 ||240412(금)|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928||
+||240413(토)|2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129||
 
 
