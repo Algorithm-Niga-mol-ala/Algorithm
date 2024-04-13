@@ -27,4 +27,4 @@
 |14주차|240412(금)|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476|로직은 잘 풀었는데 반례들이 많이 나왔다. 원인은 java와 다르게 js의 sort 부분에서 숫자로 정렬된 게 아닌 문자열로 정렬되기 때문이었다. tangerine.sort((a,b) => (a-b)); 를 통해 숫자 정렬 기준으로 바꿔주니 해결!|
 ||240412(금)|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|그리디 문제 하나 풀다가 밥 못먹었는데 벌금까지 내자니 서러워서 방지용으로 하나 풉니다,,|
 ||240413(토)|1|음양 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/76501|간단한 조건문 문제|
-||240414(일)|?|?|?|?|
+||240413(토)|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|아이디어 계산 문제|
