@@ -22,3 +22,5 @@
 ||240310|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937||
 |14주차|240412|0|산책|https://school.programmers.co.kr/learn/courses/30/lessons/250129||
 ||240412|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
+||240414|1|나머지가 1이 되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389||
+||240414|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947||
