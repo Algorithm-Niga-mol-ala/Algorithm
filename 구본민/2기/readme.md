@@ -25,6 +25,8 @@
 |차수|날짜|문제 이름(url)|난이도|
 |---|---|---|---|
 |11주차|240320|[체크 다이아몬드 ](https://www.codetree.ai/missions/4/problems/check-diamond)|![쉬움][easy]|
+|14주차|240414|[별표 출력하기13](https://www.codetree.ai/missions/4/problems/print-start-13)|![쉬움][easy]|
+|14주차|240414|[규칙을 찾아 출력하기](https://www.codetree.ai/missions/4/problems/find-a-rule-and-print)|![쉬움][easy]|
 
 
 
