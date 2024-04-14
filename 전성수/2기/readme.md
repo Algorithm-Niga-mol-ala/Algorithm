@@ -47,3 +47,4 @@
 ||240409|실버 4|로프|https://www.acmicpc.net/problem/2217|그리디|
 ||240409|실버 2|잃어버린 괄호|https://www.acmicpc.net/problem/1541|그리디|
 ||240414|실버 2|연결 요소의 개수|https://www.acmicpc.net/problem/11724|BFS|
+||240414|골드 5|회장뽑기|https://www.acmicpc.net/problem/2660|BFS|
