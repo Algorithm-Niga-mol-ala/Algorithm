@@ -34,3 +34,5 @@
 ||240317(일)|Lv.1|공원 산책|https://school.programmers.co.kr/learn/courses/30/lessons/172928||
 |14주차|240412(금)|Lv.1|나머지가 1이 되는 수 찾기|[https://school.programmers.co.kr/learn/courses/30/lessons/86051](https://school.programmers.co.kr/learn/courses/30/lessons/87389)||
 ||240412(금)|Lv.1|바탕화면 정리|[https://school.programmers.co.kr/learn/courses/30/lessons/172928](https://school.programmers.co.kr/learn/courses/30/lessons/161990)||
+||240414(일)|Lv.1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840||
+||240414(일)|Lv.1|콜라 문제|https://school.programmers.co.kr/learn/courses/30/lessons/132267||
