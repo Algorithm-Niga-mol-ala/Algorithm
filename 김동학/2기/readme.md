@@ -22,4 +22,4 @@
 |14주차|159994|1|카드뭉치|https://school.programmers.co.kr/learn/courses/30/lessons/159994||
 ||42576|1|완주하지못한선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576||
 ||86491|1|최소직사각형|https://school.programmers.co.kr/learn/courses/30/lessons/86491||
-||42840|1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840||
+||42840|1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840||
