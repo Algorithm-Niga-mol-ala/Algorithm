@@ -36,3 +36,4 @@
 ||240317|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
 |14주차|240412|1|짝수와 홀수|https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=javascript||
 ||240412|1|행렬의 덧셈|https://school.programmers.co.kr/learn/courses/30/lessons/12950||
+||240414|1|제일 작은 수 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12935||
