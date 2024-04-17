@@ -28,3 +28,7 @@
 ||240412(금)|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|그리디 문제 하나 풀다가 밥 못먹었는데 벌금까지 내자니 서러워서 방지용으로 하나 풉니다,,|
 ||240413(토)|1|음양 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/76501|간단한 조건문 문제|
 ||240413(토)|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|아이디어 계산 문제|
+|15주차|240417(수)|1|수박수박수박수박수박수?|https://school.programmers.co.kr/learn/courses/30/lessons/12922|수요일엔 수박문제|
+||240417(수)|2|?|?|?|
+||240417(수)|2|?|?|?|
+||240417(수)|2|?|?|?|
