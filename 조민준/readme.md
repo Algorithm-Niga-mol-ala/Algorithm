@@ -33,3 +33,5 @@
 ||240317|1|조건에 맞는 도서 리스트 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/144853|SQL 고득점 Kit - SELECT|
 |14주차|240412|1|과일로 만든 아이스크림 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/133025|SQL 고득점 Kit - SELECT|
 ||240412|1|평균 일일 대여 요금 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/151136|SQL 고득점 Kit - SELECT|
+|15주차|240417|2|3월에 태어난 여성 회원 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/131120|SQL 고득점 Kit - SELECT|
+||240417|1|어린 동물 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/59037|SQL 고득점 Kit - SELECT|
