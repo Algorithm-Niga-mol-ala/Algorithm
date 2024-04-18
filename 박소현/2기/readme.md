@@ -37,3 +37,4 @@
 ||240414(일)|Lv.1|모의고사|https://school.programmers.co.kr/learn/courses/30/lessons/42840||
 ||240414(일)|Lv.1|콜라 문제|https://school.programmers.co.kr/learn/courses/30/lessons/132267||
 |15주차|240415(월)|Lv.1|가장 가까운 같은 글자|https://school.programmers.co.kr/learn/courses/30/lessons/142086||
+||240418(목)|Lv.2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747||
