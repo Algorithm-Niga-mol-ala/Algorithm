@@ -49,4 +49,4 @@
 ||240414|실버 2|연결 요소의 개수|https://www.acmicpc.net/problem/11724|BFS|
 ||240414|골드 5|회장뽑기|https://www.acmicpc.net/problem/2660|BFS|
 |15주차|240419|실버4|수 찾기|https://www.acmicpc.net/problem/1920|이분탐색|
-||240419|2||https://www.acmicpc.net/problem/2660|BFS|
+||240419|2||https://school.programmers.co.kr/learn/courses/30/lessons/42747||
