@@ -42,3 +42,4 @@
 ||240413(토)|2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129||
 ||240413(토)|2|숫자의 표현|https://school.programmers.co.kr/learn/courses/30/lessons/12924||
 |15주차|240419(금)|2|다음 큰 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12911||
+||240419(금)|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973||
