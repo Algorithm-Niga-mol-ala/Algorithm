@@ -43,3 +43,4 @@
 ||240413(토)|2|숫자의 표현|https://school.programmers.co.kr/learn/courses/30/lessons/12924||
 |15주차|240419(금)|2|다음 큰 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12911||
 ||240419(금)|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973||
+||240420(토)|2|멀리 뛰기|https://school.programmers.co.kr/learn/courses/30/lessons/12914||
