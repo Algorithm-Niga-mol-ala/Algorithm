@@ -44,3 +44,4 @@
 |15주차|240419(금)|2|다음 큰 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12911|구현|
 ||240419(금)|2|짝지어 제거하기|https://school.programmers.co.kr/learn/courses/30/lessons/12973|스택|
 ||240420(토)|2|멀리 뛰기|https://school.programmers.co.kr/learn/courses/30/lessons/12914|dp|
+||240420(토)|2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|완탐|
