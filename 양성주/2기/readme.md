@@ -40,3 +40,5 @@
 ||240414|1|평균 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/12944||
 |15주차|240418|0|더 크게 합치기|https://school.programmers.co.kr/learn/courses/30/lessons/181939||
 ||240418|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
+||240420|0|각도기|https://school.programmers.co.kr/learn/courses/30/lessons/120829||
+||240420|2|주식가격|https://school.programmers.co.kr/learn/courses/30/lessons/42584||
