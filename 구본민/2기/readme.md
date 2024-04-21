@@ -27,6 +27,8 @@
 |11주차|240320|[체크 다이아몬드 ](https://www.codetree.ai/missions/4/problems/check-diamond)|![쉬움][easy]|
 |14주차|240414|[별표 출력하기13](https://www.codetree.ai/missions/4/problems/print-start-13)|![쉬움][easy]|
 |14주차|240414|[규칙을 찾아 출력하기](https://www.codetree.ai/missions/4/problems/find-a-rule-and-print)|![쉬움][easy]|
+|15주차|240421|[좌우반전시킨 정사각형](https://www.codetree.ai/missions?missionId=4)|![쉬움][easy]|
+|15주차|240421|[열에 따라 감소하는 정사각형](https://www.codetree.ai/missions?missionId=4)|![쉬움][easy]|
 
 
 
