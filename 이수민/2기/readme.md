@@ -40,4 +40,4 @@
 ||240414|1|두 정수 사이의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12912|쉬움|
 |15주차|240417|2|숫자의 표현|https://school.programmers.co.kr/learn/courses/30/lessons/12924|-|
 ||240418|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943|-|
-
+||240421|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|문자열 기초|
