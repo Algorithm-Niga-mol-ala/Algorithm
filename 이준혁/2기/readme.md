@@ -30,5 +30,5 @@
 ||240413(토)|1|없는 숫자 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/86051|아이디어 계산 문제|
 |15주차|240417(수)|1|수박수박수박수박수박수?|https://school.programmers.co.kr/learn/courses/30/lessons/12922|수요일엔 수박문제|
 ||240418(목)|2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|문제는 안어려운데 약수를 간단하게 계산하다보니 2x2, 3x3같은 같은 수의 경우에 대한 예외처리가 모자랐다.|
-||240417(수)|2|?|?|?|
+||240421(일)|2|점프와 순간 이동|https://school.programmers.co.kr/learn/courses/30/lessons/12980|계산이 어려울 것 같을 때는 뒤에서부터 생각해보면 쉽게 풀릴 때도 있다.|
 ||240417(수)|2|?|?|?|
