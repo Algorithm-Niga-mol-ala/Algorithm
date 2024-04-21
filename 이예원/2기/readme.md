@@ -24,3 +24,5 @@
 ||240412|1|추억 점수|https://school.programmers.co.kr/learn/courses/30/lessons/176963||
 ||240414|1|나머지가 1이 되는 수 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/87389||
 ||240414|1|하샤드 수|https://school.programmers.co.kr/learn/courses/30/lessons/12947||
+|15주차|240421|1|약수의 합|https://school.programmers.co.kr/learn/courses/30/lessons/12928||
+||240421|1|수박수박수박수박수박수?|https://school.programmers.co.kr/learn/courses/30/lessons/12922||
