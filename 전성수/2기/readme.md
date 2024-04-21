@@ -52,4 +52,6 @@
 ||240419|2||https://school.programmers.co.kr/learn/courses/30/lessons/42747||
 ||240421|D3||https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS||
 ||240421|D2||https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN#;return%20false;||
-|16주차|240422|골드 5|두 용액|https://www.acmicpc.net/problem/1920|이분탐색|
+|16주차|240422|골드 5|두 용액|https://www.acmicpc.net/problem/2470|이분탐색|
+|16주차|240422|골드 3|세 용액|https://www.acmicpc.net/problem/2473|이분탐색|
+
