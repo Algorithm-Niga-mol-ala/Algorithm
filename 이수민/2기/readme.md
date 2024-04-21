@@ -41,3 +41,4 @@
 |15주차|240417|2|숫자의 표현|https://school.programmers.co.kr/learn/courses/30/lessons/12924|-|
 ||240418|1|콜라츠 추측|https://school.programmers.co.kr/learn/courses/30/lessons/12943|-|
 ||240421|1|서울에서 김서방 찾기|https://school.programmers.co.kr/learn/courses/30/lessons/12919|문자열 기초|
+||240421|2|다음 큰 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12911|bitCount는 이진법에서 true 개수 세준다|
