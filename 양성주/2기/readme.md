@@ -42,3 +42,6 @@
 ||240418|2|피보나치 수|https://school.programmers.co.kr/learn/courses/30/lessons/12945||
 ||240420|0|각도기|https://school.programmers.co.kr/learn/courses/30/lessons/120829||
 ||240420|2|주식가격|https://school.programmers.co.kr/learn/courses/30/lessons/42584||
+|16주차|240423|1|2016년|https://school.programmers.co.kr/learn/courses/30/lessons/12901||
+||240423|1|성격 유형 검사하기|https://school.programmers.co.kr/learn/courses/30/lessons/118666||
+
