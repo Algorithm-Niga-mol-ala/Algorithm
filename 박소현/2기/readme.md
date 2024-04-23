@@ -40,3 +40,4 @@
 ||240418(목)|Lv.2|H-Index|https://school.programmers.co.kr/learn/courses/30/lessons/42747||
 ||240421(일)|Lv.2|할인 행사|https://school.programmers.co.kr/learn/courses/30/lessons/131127||
 ||240421(일)|Lv.2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949||
+|16주차|240423(화)|Lv.2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476||
