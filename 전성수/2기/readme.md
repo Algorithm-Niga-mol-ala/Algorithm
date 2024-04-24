@@ -53,5 +53,6 @@
 ||240421|D3||https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS||
 ||240421|D2||https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN#;return%20false;||
 |16주차|240422|골드 5|두 용액|https://www.acmicpc.net/problem/2470|이분탐색|
-|16주차|240422|골드 3|세 용액|https://www.acmicpc.net/problem/2473|이분탐색|
+||240422|골드 3|세 용액|https://www.acmicpc.net/problem/2473|이분탐색|
+||240425|골드 4|회사 문화1|https://www.acmicpc.net/problem/14267|dfs,dp|
 
