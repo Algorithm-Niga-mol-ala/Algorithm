@@ -55,4 +55,5 @@
 |16주차|240422|골드 5|두 용액|https://www.acmicpc.net/problem/2470|이분탐색|
 ||240422|골드 3|세 용액|https://www.acmicpc.net/problem/2473|이분탐색|
 ||240425|골드 4|회사 문화1|https://www.acmicpc.net/problem/14267|dfs,dp|
+||240426|골드 4|민서의 응급수술|https://www.acmicpc.net/problem/20955|dfs,dp|
 
