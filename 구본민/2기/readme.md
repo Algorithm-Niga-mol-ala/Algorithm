@@ -29,6 +29,8 @@
 |14주차|240414|[규칙을 찾아 출력하기](https://www.codetree.ai/missions/4/problems/find-a-rule-and-print)|![쉬움][easy]|
 |15주차|240421|[좌우반전시킨 정사각형](https://www.codetree.ai/missions?missionId=4)|![쉬움][easy]|
 |15주차|240421|[열에 따라 감소하는 정사각형](https://www.codetree.ai/missions?missionId=4)|![쉬움][easy]|
+|16주차|240425|[알파벳 출력하기 2](https://www.codetree.ai/missions/4/problems/print-alphabet-2)|![쉬움][easy]|
+|16주차|240426|[짝수의 합 n번 구하기 ](https://www.codetree.ai/missions/4/problems/find-the-sum-of-even-numbers-n-times)|![쉬움][easy]|
 
 
 
