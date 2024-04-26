@@ -52,3 +52,4 @@
 ||240425(목)|2|연속 부분 수열 합의 개수|https://school.programmers.co.kr/learn/courses/30/lessons/131701||
 ||240425(목)|2|예상 대진표|https://school.programmers.co.kr/learn/courses/30/lessons/12985||
 ||240426(금)|2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587||
+||240426(금)|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476||
