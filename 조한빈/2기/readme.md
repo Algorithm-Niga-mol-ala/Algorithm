@@ -53,4 +53,4 @@
 ||240425(목)|2|예상 대진표|https://school.programmers.co.kr/learn/courses/30/lessons/12985||
 ||240426(금)|2|프로세스|https://school.programmers.co.kr/learn/courses/30/lessons/42587||
 ||240426(금)|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476||
-||240427(토)|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885||
+||240427(토)|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|알고리즘 고득점 Kit|
