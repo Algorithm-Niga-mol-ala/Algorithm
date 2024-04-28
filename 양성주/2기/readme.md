@@ -44,4 +44,6 @@
 ||240420|2|주식가격|https://school.programmers.co.kr/learn/courses/30/lessons/42584||
 |16주차|240423|1|2016년|https://school.programmers.co.kr/learn/courses/30/lessons/12901||
 ||240423|1|성격 유형 검사하기|https://school.programmers.co.kr/learn/courses/30/lessons/118666||
+||240428|0|홀짝 구분하기|https://school.programmers.co.kr/learn/courses/30/lessons/181944||
+||240428|1|x만큼 간격이 있는 n개의 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12954||
 
