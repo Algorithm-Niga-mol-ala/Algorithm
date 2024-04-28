@@ -28,3 +28,4 @@
 ||240421|1|수박수박수박수박수박수?|https://school.programmers.co.kr/learn/courses/30/lessons/12922||
 ||240421|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|탐욕법|
 |16주차|240428|1|대충 만든 자판|https://school.programmers.co.kr/learn/courses/30/lessons/160586||
+||240428|1|과일장수|https://school.programmers.co.kr/learn/courses/30/lessons/135808||
