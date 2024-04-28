@@ -47,6 +47,7 @@ https://sentry.io/answers/how-do-i-convert-a-string-to-an-int-in-java/ 참조
 <br>
 ##-##-## 출력 함수 : date_format(날짜, '%y-%m-%d');
 <br>
+
 ---
 
 ***JOIN 문법***
@@ -63,6 +64,7 @@ https://sentry.io/answers/how-do-i-convert-a-string-to-an-int-in-java/ 참조
 <br>
 두 테이블을 연결할 때 가장 많이 사용하는  것이 내부 조인입니다. 그냥 조인이라고 부르면 내부 조인을 의미합니다.
 <br>
+
 ```
 SELECT <열 목록>
 FROM <첫 번째 테이블>
@@ -72,6 +74,7 @@ FROM <첫 번째 테이블>
 
 #INNER JOIN을 JOIN이라고만 써도 INNER JOIN으로 인식합니다.
 ```
+
 <br>
 
 ****Outer Join****
@@ -84,6 +87,7 @@ FROM <첫 번째 테이블>
 - RIGHT OUTER JOIN: 오른쪽 테이블의 모든 값이 출력되는 조인
 - FULL OUTER JOIN: 왼쪽 또는 오른쪽 테이블의 모든 값이 출력되는 조인
 <br>
+
 ```
 SELECT <열 목록>
 FROM <첫 번째 테이블(LEFT 테이블)>
@@ -91,6 +95,7 @@ FROM <첫 번째 테이블(LEFT 테이블)>
      ON <조인 조건>
 [WHERE 검색 조건]
 ```
+
 <br>
 
 ****Cross Join****
@@ -98,24 +103,58 @@ FROM <첫 번째 테이블(LEFT 테이블)>
 한쪽 테이블의 모든 행과 다른 쪽 테이블의 모든 행을 조인시키는 기능입니다. 상호 조인 결과의 전체 행 개수는 두 테이블의 각 행의 개수를 곱한 수만큼 됩니다.
 카티션 곱(CARTESIAN PRODUCT)라고도 합니다.
 <br>
+
 ```
 SELECT *
 FROM <첫 번째 테이블>
     CROSS JOIN <두 번째 테이블>
 ```
+
 <br>
 
 ****Self Join****
 <br>
 자체 조인은 자기 자신과 조인하므로 1개의 테이블을 사용합니다. 별도의 문법이 있는 것은 아니고 1개로 조인하면 자체 조인이 됩니다.
 <br>
+
 ```
 SELECT <열 목록>
 FROM <테이블> 별칭A
     INNER JOIN <테이블> 별칭B
 [WHERE 검색 조건]
 ```
+
 <br>
 출처 :
 https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/
+
+---
+
+****함수 모음****
+<br>
+
+****SUBSTR : 문자열 자르기****
+
+SUBSTR("문자열", "시작위치", "길이")
+
+<br>
+
+****ROUND : 반올림****
+
+ROUND(숫자, 자릿수)
+<br>
+주로 집계함수와 같이 사용
+<br>
+
+****CEIL : 올림****
+
+CEIL(숫자, 자릿수)
+<br>
+
+****FLOOR : 내림****
+
+FLOOR(숫자, 자릿수)
+<br>
+
+
 ---
