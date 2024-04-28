@@ -44,3 +44,6 @@
 ||240421|2|다음 큰 숫자|https://school.programmers.co.kr/learn/courses/30/lessons/12911|bitCount는 이진법에서 true 개수 세준다|
 |16주차|240423|2|카펫|https://school.programmers.co.kr/learn/courses/30/lessons/42842|완전탐색|
 ||240423|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java|compareTo정렬|
+||240428|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|잘 생각하면 쉬운 규칙이 있다..|
+||240428|2|n^2배열 자르기|https://school.programmers.co.kr/learn/courses/30/lessons/87390|long..|
+
