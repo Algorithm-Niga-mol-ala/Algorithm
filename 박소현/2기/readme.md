@@ -42,3 +42,5 @@
 ||240421(일)|2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949||
 |16주차|240423(화)|2|귤 고르기|https://school.programmers.co.kr/learn/courses/30/lessons/138476||
 ||240426(금)|1|대충 만든 자판|https://school.programmers.co.kr/learn/courses/30/lessons/160586||
+||240428(일)|1|크기가 작은 부분 문자열|https://school.programmers.co.kr/learn/courses/30/lessons/147355||
+||240428(일)|1|삼총사|https://school.programmers.co.kr/learn/courses/30/lessons/131705||
