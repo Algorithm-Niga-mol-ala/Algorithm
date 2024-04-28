@@ -33,4 +33,4 @@
 ||240421(일)|2|점프와 순간 이동|https://school.programmers.co.kr/learn/courses/30/lessons/12980|계산이 어려울 것 같을 때는 뒤에서부터 생각해보면 쉽게 풀릴 때도 있다.|
 ||240421(일)|1|정수 내림차순으로 배치하기|https://school.programmers.co.kr/learn/courses/30/lessons/12933|number 데이터타입이라서 형변환해서 잘라야하나 하다가 그냥 반복문에서 10씩 나누는 방식으로 잘라서 저장한 뒤, 정렬하여 다시 하나의 변수에 담아주는 방식으로 해결|
 |16주차|240428(일)|2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949|js에서는 이차원 배열이 없다. 직접 for문을 이용하여 구현|
-||240428(일)|2|?|?|?|
+||240428(일)|2|이진 변환 반복하기|https://school.programmers.co.kr/learn/courses/30/lessons/70129|js 문자열에 대한 처리로 간단하게 해결|
