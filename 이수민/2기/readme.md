@@ -46,4 +46,6 @@
 ||240423|2|가장 큰 수|https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java|compareTo정렬|
 ||240428|2|올바른 괄호|https://school.programmers.co.kr/learn/courses/30/lessons/12909|잘 생각하면 쉬운 규칙이 있다..|
 ||240428|2|n^2배열 자르기|https://school.programmers.co.kr/learn/courses/30/lessons/87390|long..|
+|17주차|240430|1|완주하지 못한 선수|https://school.programmers.co.kr/learn/courses/30/lessons/42576|해시|
+||240430|1|폰켓몬|https://school.programmers.co.kr/learn/courses/30/lessons/1845|해시|
 
