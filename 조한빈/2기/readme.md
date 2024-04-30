@@ -56,5 +56,6 @@
 ||240427(토)|2|구명보트|https://school.programmers.co.kr/learn/courses/30/lessons/42885|알고리즘 고득점 Kit|
 ||240428(일)|2|괄호 회전하기|https://school.programmers.co.kr/learn/courses/30/lessons/76502||
 |17주차|240501(수)|2|H-index|https://school.programmers.co.kr/learn/courses/30/lessons/42747||
+||240501(수)|2|쿼드압축 후 개수 세기|https://school.programmers.co.kr/learn/courses/30/lessons/68936||
 
 
