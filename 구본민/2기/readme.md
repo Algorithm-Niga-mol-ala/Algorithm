@@ -33,6 +33,8 @@
 |16주차|240426|[짝수의 합 n번 구하기 ](https://www.codetree.ai/missions/4/problems/find-the-sum-of-even-numbers-n-times)|![쉬움][easy]|
 |16주차|240427|[짝수들을 거꾸로 출력](https://www.codetree.ai/missions/4/problems/print-even-numbers-upside-down)|![쉬움][easy]|
 |16주차|240428|[나눗셈의 나머지](https://www.codetree.ai/missions/4/problems/remainder-of-division)|![쉬움][easy]|
+|17주차|240429|[특정 원소들의 합 ](https://www.codetree.ai/missions/4/problems/sum-of-specific-elements)|![쉬움][easy]|
+|17주차|240502|[규칙에 따라 밀기 ](https://www.codetree.ai/missions/4/problems/push-by-the-rules)|![쉬움][easy]|
 
 
 
