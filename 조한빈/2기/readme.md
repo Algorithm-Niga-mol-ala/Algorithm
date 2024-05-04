@@ -58,5 +58,6 @@
 |17주차|240501(수)|2|H-index|https://school.programmers.co.kr/learn/courses/30/lessons/42747||
 ||240501(수)|2|쿼드압축 후 개수 세기|https://school.programmers.co.kr/learn/courses/30/lessons/68936||
 ||240501(수)|2|행렬의 곱셈|https://school.programmers.co.kr/learn/courses/30/lessons/12949||
+||240504(토)|3|이중우선순위큐|https://school.programmers.co.kr/learn/courses/30/lessons/42628||
 
 
