@@ -35,6 +35,7 @@
 |16주차|240428|[나눗셈의 나머지](https://www.codetree.ai/missions/4/problems/remainder-of-division)|![쉬움][easy]|
 |17주차|240429|[특정 원소들의 합 ](https://www.codetree.ai/missions/4/problems/sum-of-specific-elements)|![쉬움][easy]|
 |17주차|240502|[규칙에 따라 밀기 ](https://www.codetree.ai/missions/4/problems/push-by-the-rules)|![쉬움][easy]|
+|17주차|240504|[그 전 알파벳 ](https://www.codetree.ai/missions/4/problems/before-the-alphabet)|![쉬움][easy]|
 
 
 
