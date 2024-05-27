@@ -61,6 +61,7 @@
 ||240504(토)|3|이중우선순위큐|https://school.programmers.co.kr/learn/courses/30/lessons/42628||
 ||240505(일)|3|합승 택시 요금|https://school.programmers.co.kr/learn/courses/30/lessons/72413||
 |20주차|240522(수)|2|할인 행사|https://school.programmers.co.kr/learn/courses/30/lessons/131127|슬라이딩 윈도우|
+|21주차|240527(월)|2|n^2 배열 자르기|https://school.programmers.co.kr/learn/courses/30/lessons/87390||
 
 
 
