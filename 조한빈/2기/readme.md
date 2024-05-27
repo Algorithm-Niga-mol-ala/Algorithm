@@ -63,6 +63,7 @@
 |20주차|240522(수)|2|할인 행사|https://school.programmers.co.kr/learn/courses/30/lessons/131127|슬라이딩 윈도우|
 |21주차|240527(월)|2|n^2 배열 자르기|https://school.programmers.co.kr/learn/courses/30/lessons/87390||
 ||240527(월)|2|[1차] 캐시|https://school.programmers.co.kr/learn/courses/30/lessons/17680||
+||240527(월)|2|튜플|https://school.programmers.co.kr/learn/courses/30/lessons/64065|문자열|
 
 
 
