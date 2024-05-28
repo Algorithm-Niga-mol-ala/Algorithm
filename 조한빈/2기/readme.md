@@ -66,6 +66,7 @@
 ||240527(월)|2|튜플|https://school.programmers.co.kr/learn/courses/30/lessons/64065|문자열|
 ||240528(화)|2|베스트앨범|https://school.programmers.co.kr/learn/courses/30/lessons/42579|해시|
 ||240529(수)|0|짝수는 싫어요|https://school.programmers.co.kr/learn/courses/30/lessons/120813||
+||240529(수)|0|옷가게 할인받기|https://school.programmers.co.kr/learn/courses/30/lessons/120818||
 
 
 
