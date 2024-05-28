@@ -64,6 +64,7 @@
 |21주차|240527(월)|2|n^2 배열 자르기|https://school.programmers.co.kr/learn/courses/30/lessons/87390||
 ||240527(월)|2|[1차] 캐시|https://school.programmers.co.kr/learn/courses/30/lessons/17680||
 ||240527(월)|2|튜플|https://school.programmers.co.kr/learn/courses/30/lessons/64065|문자열|
+||240528(화)|2|베스트앨범|https://school.programmers.co.kr/learn/courses/30/lessons/42579|해시|
 
 
 
