@@ -69,7 +69,8 @@
 ||240528(화)|0|옷가게 할인받기|https://school.programmers.co.kr/learn/courses/30/lessons/120818||
 ||240528(화)|0|가위바위보|https://school.programmers.co.kr/learn/courses/30/lessons/120839||
 ||240528(화)|0|숨어있는 숫자의 덧셈(1)|https://school.programmers.co.kr/learn/courses/30/lessons/120851||
-||240529(화)|0|암호 해독|https://school.programmers.co.kr/learn/courses/30/lessons/120892||
+||240529(수)|0|암호 해독|https://school.programmers.co.kr/learn/courses/30/lessons/120892||
+||240529(수)|0|대문자와 소문자|https://school.programmers.co.kr/learn/courses/30/lessons/120893||
 
 
 
